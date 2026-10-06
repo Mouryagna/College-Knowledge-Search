@@ -1,0 +1,4102 @@
+[
+  {
+    "doc_id": "docx_11b975a522",
+    "title": "Time Table",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://www.iiitn.ac.in/academics/timetable",
+    "parent_page_url": "https://www.iiitn.ac.in/",
+    "local_path": "data/raw/docs/General/timetable.docx",
+    "content_hash": "11b975a5227c8683cbe74ed5533b780e"
+  },
+  {
+    "doc_id": "pdf_d34d247be2",
+    "title": "Telephone Directory",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/fb94fbf05b774a7e80dfef4a125c4dcb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/",
+    "local_path": "data/raw/pdfs/General/fb94fbf05b774a7e80dfef4a125c4dcb.pdf",
+    "content_hash": "d34d247be2c420f02ba089b896147fba"
+  },
+  {
+    "doc_id": "docx_fb6f75d84f",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "fb6f75d84f6221a586db7cb3053d6bf8"
+  },
+  {
+    "doc_id": "pdf_6f4e75b23b",
+    "title": "Policy of Prevention of Sexual Harassment of Women at Workplace",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0bc8b07c132a489db9adc595cd45f98e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/",
+    "local_path": "data/raw/pdfs/General/0bc8b07c132a489db9adc595cd45f98e.pdf",
+    "content_hash": "6f4e75b23b6033093a7bf2da04b2af2b"
+  },
+  {
+    "doc_id": "html_3164bbf1e4",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/",
+    "parent_page_url": "https://www.iiitn.ac.in/",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_3164bb.txt",
+    "content_hash": "3164bbf1e47cf9951b00f4c95a94e7bf"
+  },
+  {
+    "doc_id": "pdf_ed0072316b",
+    "title": "Learn more",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/65bb626447f645ec9264204806ff8911.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/about",
+    "local_path": "data/raw/pdfs/Institute/65bb626447f645ec9264204806ff8911.pdf",
+    "content_hash": "ed0072316b29b4c96c231cba1a630f8e"
+  },
+  {
+    "doc_id": "pdf_0d8d169915",
+    "title": "Learn more",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bd435397ed444448914410ade813746c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/about",
+    "local_path": "data/raw/pdfs/Institute/bd435397ed444448914410ade813746c.pdf",
+    "content_hash": "0d8d1699156ac73d552932e7dd78ca93"
+  },
+  {
+    "doc_id": "docx_7fc4fee0ae",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/about",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "7fc4fee0ae3fb9b030953855e86c449b"
+  },
+  {
+    "doc_id": "html_c625a91911",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/about",
+    "parent_page_url": "https://www.iiitn.ac.in/about",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_c625a9.txt",
+    "content_hash": "c625a91911d864bb3d348bd5e094f385"
+  },
+  {
+    "doc_id": "docx_37a5915126",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/institutesprofile",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "37a59151268e2267aa9708fe273ccf3e"
+  },
+  {
+    "doc_id": "html_4e1e4efe22",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/institutesprofile",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/institutesprofile",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_4e1e4e.txt",
+    "content_hash": "4e1e4efe2290735004378583d53f1393"
+  },
+  {
+    "doc_id": "docx_21d6f58964",
+    "title": "Networking Complaint",
+    "category": "Governance",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/governance/administration",
+    "local_path": "data/raw/docs/Governance/viewform.docx",
+    "content_hash": "21d6f589645a22f033754f16b0d38dae"
+  },
+  {
+    "doc_id": "html_b590e75315",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Governance",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/governance/administration",
+    "parent_page_url": "https://www.iiitn.ac.in/governance/administration",
+    "local_path": "data/raw/web_pages/Governance/Indian_Institute_of_Informatio_b590e7.txt",
+    "content_hash": "b590e75315664d820ce33f16946bb9bb"
+  },
+  {
+    "doc_id": "docx_3cfffe0d4e",
+    "title": "Networking Complaint",
+    "category": "Governance",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/governance/committee",
+    "local_path": "data/raw/docs/Governance/viewform.docx",
+    "content_hash": "3cfffe0d4ec72bc040462fa85ff290b4"
+  },
+  {
+    "doc_id": "html_8dff6d383a",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Governance",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/governance/committee",
+    "parent_page_url": "https://www.iiitn.ac.in/governance/committee",
+    "local_path": "data/raw/web_pages/Governance/Indian_Institute_of_Informatio_8dff6d.txt",
+    "content_hash": "8dff6d383a2111cb5188431d72f68552"
+  },
+  {
+    "doc_id": "docx_64535ef051",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/campusgallery",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "64535ef051cb7fbb55404e8cac010e11"
+  },
+  {
+    "doc_id": "html_d82e7e0ef6",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/campusgallery",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/campusgallery",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_d82e7e.txt",
+    "content_hash": "d82e7e0ef6bc60aa84aaa4399c456a2f"
+  },
+  {
+    "doc_id": "docx_267f33057e",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/facilities",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "267f33057ecc33e7ef614f199f6652aa"
+  },
+  {
+    "doc_id": "html_95bcb66830",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/facilities",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/facilities",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_95bcb6.txt",
+    "content_hash": "95bcb66830d559fe418054bf5b107fbd"
+  },
+  {
+    "doc_id": "pdf_3ef782c332",
+    "title": "Circular for Students",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/436645147f8645c8b11993f579016827.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/436645147f8645c8b11993f579016827.pdf",
+    "content_hash": "3ef782c332ea84ba09ef26ba77c55131"
+  },
+  {
+    "doc_id": "pdf_dd3b62c722",
+    "title": "CSE Sessional - II Exam Exam Timetable",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b1e5e0ff61d0488e8125bea6ed4c5d38.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/b1e5e0ff61d0488e8125bea6ed4c5d38.pdf",
+    "content_hash": "dd3b62c7223a712a101be12d187a4c98"
+  },
+  {
+    "doc_id": "pdf_745a5a9af5",
+    "title": "Circular regarding change the name of MHRD to Ministry of Education",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/de746b9bc4cb48409d9138906245aa0c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/de746b9bc4cb48409d9138906245aa0c.pdf",
+    "content_hash": "745a5a9af5551c9c57a116edfe8bf54b"
+  },
+  {
+    "doc_id": "pdf_6807cc9115",
+    "title": "Circular for Immovable property returns for the year 2024",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/55123662bf264240ba1a4949129ab075.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/55123662bf264240ba1a4949129ab075.pdf",
+    "content_hash": "6807cc9115d97aeb75dd2f9146c8aa89"
+  },
+  {
+    "doc_id": "pdf_122eae68fa",
+    "title": "\u092a\u094d\u0930\u0925\u092e \u0935\u0930\u094d\u0937 \u0915\u0947 \u092c\u0940.\u091f\u0947\u0915. \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0936\u093e\u0916\u093e \u092a\u0930\u093f\u0935\u0930\u094d\u0924\u0928 \u0905\u0927\u093f\u0938\u0942\u091a\u0928\u093e/ Branch Change Notification for First-Year B.Tech. Students",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/211de0e4020d41b4be666914033da7c0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/211de0e4020d41b4be666914033da7c0.pdf",
+    "content_hash": "122eae68fab940a76fe57477b4ab855c"
+  },
+  {
+    "doc_id": "pdf_ae8d194d7a",
+    "title": "Application Format For Change Of Branch",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/fe94e9ca5360441a916b72e264cc981b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/pdfs/Notices/fe94e9ca5360441a916b72e264cc981b.pdf",
+    "content_hash": "ae8d194d7a59122041e9140313b355e4"
+  },
+  {
+    "doc_id": "docx_6bcf3bcfc2",
+    "title": "Networking Complaint",
+    "category": "Notices",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/docs/Notices/viewform.docx",
+    "content_hash": "6bcf3bcfc224811473f781adf33eb391"
+  },
+  {
+    "doc_id": "html_c7c8bb6f80",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Notices",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/notices",
+    "parent_page_url": "https://www.iiitn.ac.in/notices",
+    "local_path": "data/raw/web_pages/Notices/Indian_Institute_of_Informatio_c7c8bb.txt",
+    "content_hash": "c7c8bb6f801ee59b5b98255e7af3e784"
+  },
+  {
+    "doc_id": "docx_6eb98f017e",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/reservation-policy",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "6eb98f017ef5901664fe679d9eb4192c"
+  },
+  {
+    "doc_id": "html_ecac3ec7ca",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/reservation-policy",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/reservation-policy",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_ecac3e.txt",
+    "content_hash": "ecac3ec7ca7dc83bb51f4c19efb008cd"
+  },
+  {
+    "doc_id": "docx_46b703d0a9",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/departments",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "46b703d0a972e1eb12cbf9ed1ec9119f"
+  },
+  {
+    "doc_id": "html_bd607c87da",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/departments",
+    "parent_page_url": "https://www.iiitn.ac.in/departments",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_bd607c.txt",
+    "content_hash": "bd607c87da7c0c9fa4160298c0837272"
+  },
+  {
+    "doc_id": "docx_746021899a",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/basic_science",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "746021899a2f38c195af7b0641890909"
+  },
+  {
+    "doc_id": "html_92a827aace",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/departments/basic_science",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/basic_science",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_92a827.txt",
+    "content_hash": "92a827aace0ecbbaa0fa9ab45a8a9008"
+  },
+  {
+    "doc_id": "docx_29f120ea18",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/cse",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "29f120ea18556cd080bcc4c66999bf4a"
+  },
+  {
+    "doc_id": "html_9aee1442ab",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/departments/cse",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/cse",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_9aee14.txt",
+    "content_hash": "9aee1442ab71ed67d5ed06e8d10c3ec4"
+  },
+  {
+    "doc_id": "docx_d2c59c67e6",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/ece",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "d2c59c67e6e109c0291d6d467d7273ec"
+  },
+  {
+    "doc_id": "html_a165d1b671",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/departments/ece",
+    "parent_page_url": "https://www.iiitn.ac.in/departments/ece",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_a165d1.txt",
+    "content_hash": "a165d1b67155836a6076c41874d2ffcd"
+  },
+  {
+    "doc_id": "docx_367f9a12b6",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/courses",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "367f9a12b6a7c24b3f65dc1c8d033833"
+  },
+  {
+    "doc_id": "html_f77e17fc3e",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/academics/courses",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/courses",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_f77e17.txt",
+    "content_hash": "f77e17fc3e3606d19905fd612053cecd"
+  },
+  {
+    "doc_id": "pdf_9d464f958a",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/69924bfcf06442ddb45ff526e147f40a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/69924bfcf06442ddb45ff526e147f40a.pdf",
+    "content_hash": "9d464f958a530eeef5a2ae56d92c80b2"
+  },
+  {
+    "doc_id": "pdf_000b4fa9cb",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e5c28bca89e44740ac3e2f48302e377d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/e5c28bca89e44740ac3e2f48302e377d.pdf",
+    "content_hash": "000b4fa9cbf8677d942b81edf0336105"
+  },
+  {
+    "doc_id": "pdf_7020e3df7e",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/eeaa45fdf1af4e45843e5e79bb1a11ca.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/eeaa45fdf1af4e45843e5e79bb1a11ca.pdf",
+    "content_hash": "7020e3df7eae16c40e2a7c54fe3827c6"
+  },
+  {
+    "doc_id": "pdf_56e125a2a1",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c46ddcf9e3e24bec922b83c6a750de7f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/c46ddcf9e3e24bec922b83c6a750de7f.pdf",
+    "content_hash": "56e125a2a1048898986a8a792a2adbc8"
+  },
+  {
+    "doc_id": "pdf_2b592097df",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e86116f04ebc4cb694ed278bc9fa0e21.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/e86116f04ebc4cb694ed278bc9fa0e21.pdf",
+    "content_hash": "2b592097dfc72cd48295ef65b88902f4"
+  },
+  {
+    "doc_id": "pdf_4264063cae",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/96eed05366414b7fb6dae44507c60a29.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/96eed05366414b7fb6dae44507c60a29.pdf",
+    "content_hash": "4264063caeebe87cd0d86c30a8c6a876"
+  },
+  {
+    "doc_id": "pdf_1c5c89a6fe",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/60117b8db1c9483ea003fc9621b0dca2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/60117b8db1c9483ea003fc9621b0dca2.pdf",
+    "content_hash": "1c5c89a6fee79888cdf8cd19fb856eb7"
+  },
+  {
+    "doc_id": "pdf_c5aeecafde",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/12bc0fe3a86e4369968ff197b4c13141.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/12bc0fe3a86e4369968ff197b4c13141.pdf",
+    "content_hash": "c5aeecafdeee327415cff68c0418e42d"
+  },
+  {
+    "doc_id": "pdf_7152ee105a",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9456f5449716491ca55cea7d7ebdae83.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/9456f5449716491ca55cea7d7ebdae83.pdf",
+    "content_hash": "7152ee105acfe2e14bc9a3ffe3014f86"
+  },
+  {
+    "doc_id": "pdf_a6c5d6b776",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c0d2f04e27614a3882337ed7183a838d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/c0d2f04e27614a3882337ed7183a838d.pdf",
+    "content_hash": "a6c5d6b776a42dad2b2d0105dc4401b0"
+  },
+  {
+    "doc_id": "pdf_a0d1bc2a7b",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c6d46c634ee043e089adbc57d5bf2a3d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/c6d46c634ee043e089adbc57d5bf2a3d.pdf",
+    "content_hash": "a0d1bc2a7baf0e1754749925b0068f36"
+  },
+  {
+    "doc_id": "pdf_8974ce47b6",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ecc227c9026a443cb484ec0ccae3b154.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/ecc227c9026a443cb484ec0ccae3b154.pdf",
+    "content_hash": "8974ce47b6b7a529fa59bf8ef6bbcd74"
+  },
+  {
+    "doc_id": "pdf_841924c15d",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a0eadb13831d4014ae78ce8cc626fa1f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/a0eadb13831d4014ae78ce8cc626fa1f.pdf",
+    "content_hash": "841924c15d89563f0e8b9cff1d3b56a1"
+  },
+  {
+    "doc_id": "pdf_b5a77a03a5",
+    "title": "View Syllabus",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/80ee6f608c024d068a2a67b84579c79b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/80ee6f608c024d068a2a67b84579c79b.pdf",
+    "content_hash": "b5a77a03a5dd595b12e3ab7df1d3dc29"
+  },
+  {
+    "doc_id": "pdf_a3108ad581",
+    "title": "View Scheme",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/89460c2661b14bb6b568ff159f0f900b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/pdfs/Academics/89460c2661b14bb6b568ff159f0f900b.pdf",
+    "content_hash": "a3108ad5818c16b78ed3b26352811b9a"
+  },
+  {
+    "doc_id": "docx_d55ff8d02c",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "d55ff8d02c269f874f83da15861eed35"
+  },
+  {
+    "doc_id": "html_05a40f3322",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/academics/curricula",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/curricula",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_05a40f.txt",
+    "content_hash": "05a40f33225dde9586430017b7a2b66f"
+  },
+  {
+    "doc_id": "pdf_3f1736b1ab",
+    "title": "Download PDF",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0870eeec9c8940f499aa907db17551f6.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/academicfee",
+    "local_path": "data/raw/pdfs/General/0870eeec9c8940f499aa907db17551f6.pdf",
+    "content_hash": "3f1736b1ab7bbd2a791f641fc187d708"
+  },
+  {
+    "doc_id": "docx_684777b3b3",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/academicfee",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "684777b3b37e021d14d2e894e10e0318"
+  },
+  {
+    "doc_id": "html_2a2183b03d",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/academicfee",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/academicfee",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_2a2183.txt",
+    "content_hash": "2a2183b03ded025ce19054c188e1c39f"
+  },
+  {
+    "doc_id": "pdf_62e6caf94d",
+    "title": "Download PDF",
+    "category": "Admissions",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d443585f2b3e4c7c82ed14eccbe69ddd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/admissions/btech/hostelfees",
+    "local_path": "data/raw/pdfs/Admissions/d443585f2b3e4c7c82ed14eccbe69ddd.pdf",
+    "content_hash": "62e6caf94d125addedc12a1243abab08"
+  },
+  {
+    "doc_id": "docx_f932c0850f",
+    "title": "Networking Complaint",
+    "category": "Admissions",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/admissions/btech/hostelfees",
+    "local_path": "data/raw/docs/Admissions/viewform.docx",
+    "content_hash": "f932c0850f08028b965ce4882ca5054e"
+  },
+  {
+    "doc_id": "html_c19a3ac597",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Admissions",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/admissions/btech/hostelfees",
+    "parent_page_url": "https://www.iiitn.ac.in/admissions/btech/hostelfees",
+    "local_path": "data/raw/web_pages/Admissions/Indian_Institute_of_Informatio_c19a3a.txt",
+    "content_hash": "c19a3ac597f509472990173f20ccf3af"
+  },
+  {
+    "doc_id": "pdf_cf442615e3",
+    "title": "Click Here",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/05c912d1b999452dbfd3efb6ddead432.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "local_path": "data/raw/pdfs/General/05c912d1b999452dbfd3efb6ddead432.pdf",
+    "content_hash": "cf442615e303222fe9a61195e55ff7c1"
+  },
+  {
+    "doc_id": "pdf_6b4e178729",
+    "title": "Click Here",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/64925d9c242e4984a0e5ae1c98cffe60.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "local_path": "data/raw/pdfs/General/64925d9c242e4984a0e5ae1c98cffe60.pdf",
+    "content_hash": "6b4e178729b46adfef73f5c77cc5f887"
+  },
+  {
+    "doc_id": "pdf_a0e6fb414c",
+    "title": "Click Here",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/de29f6d97eab4bf5bb7241a779a9b3ac.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "local_path": "data/raw/pdfs/General/de29f6d97eab4bf5bb7241a779a9b3ac.pdf",
+    "content_hash": "a0e6fb414c4de4065660d88eb8aa5935"
+  },
+  {
+    "doc_id": "docx_2534bab234",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "2534bab2348b429f3519a57f25961c3a"
+  },
+  {
+    "doc_id": "html_5a3734989e",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/scholarships",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_5a3734.txt",
+    "content_hash": "5a3734989ed81e160507045cdae92c8a"
+  },
+  {
+    "doc_id": "pdf_bc780b6904",
+    "title": "Download",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/5217c88e118d4694832c865d9d4f2116.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/pdfs/General/5217c88e118d4694832c865d9d4f2116.pdf",
+    "content_hash": "bc780b69047a471b404cde963eebab04"
+  },
+  {
+    "doc_id": "pdf_2104c67879",
+    "title": "Download",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/50ce0646230645179d9da2f6b6e14abb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/pdfs/General/50ce0646230645179d9da2f6b6e14abb.pdf",
+    "content_hash": "2104c678794289824faf52da06d20dad"
+  },
+  {
+    "doc_id": "pdf_28e2e224ae",
+    "title": "Download",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1c8f1aeb986c49169195264654aa440b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/pdfs/General/1c8f1aeb986c49169195264654aa440b.pdf",
+    "content_hash": "28e2e224aee27d5b3352f30e65fb6bdb"
+  },
+  {
+    "doc_id": "pdf_540f0bd952",
+    "title": "Download",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/47952f8bb9c748e7818ce3c77a147a97.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/pdfs/General/47952f8bb9c748e7818ce3c77a147a97.pdf",
+    "content_hash": "540f0bd952fa71627a82a5a7c0c5a8a9"
+  },
+  {
+    "doc_id": "docx_a808d1d662",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "a808d1d662c3ba7cb77a3a7b83675749"
+  },
+  {
+    "doc_id": "html_a90a603c29",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/formats",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/formats",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_a90a60.txt",
+    "content_hash": "a90a603c29376521e3ca12c6486a71b1"
+  },
+  {
+    "doc_id": "pdf_c1df09b008",
+    "title": "View Details",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/eba774a24d4c42ab88880542c6ef6e63.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "local_path": "data/raw/pdfs/General/eba774a24d4c42ab88880542c6ef6e63.pdf",
+    "content_hash": "c1df09b008c9d0bfe1d2c465b35ebc7e"
+  },
+  {
+    "doc_id": "pdf_e9b24b0f34",
+    "title": "View Details",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/7c968de8d11744228c9f0121abd77223.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "local_path": "data/raw/pdfs/General/7c968de8d11744228c9f0121abd77223.pdf",
+    "content_hash": "e9b24b0f34276e736811ecbd87810362"
+  },
+  {
+    "doc_id": "pdf_9b7be7d5b1",
+    "title": "View Details",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4ccca88bfce84e68b41857a20af962c5.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "local_path": "data/raw/pdfs/General/4ccca88bfce84e68b41857a20af962c5.pdf",
+    "content_hash": "9b7be7d5b1843a2432dd56a39c9c6882"
+  },
+  {
+    "doc_id": "docx_1381a29d5f",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "1381a29d5f94b0010396ecb79e96ae23"
+  },
+  {
+    "doc_id": "html_ecabdf3fc5",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/loanschemes",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_ecabdf.txt",
+    "content_hash": "ecabdf3fc5cf5f4a8abbf67918326389"
+  },
+  {
+    "doc_id": "pdf_76a6bb22f6",
+    "title": "View Rule Book",
+    "category": "Admissions",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/851467e2b9424e8ba26385b850a344b4.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/overview",
+    "local_path": "data/raw/pdfs/Admissions/851467e2b9424e8ba26385b850a344b4.pdf",
+    "content_hash": "76a6bb22f694c6c733687cd1a523a872"
+  },
+  {
+    "doc_id": "docx_b99885119f",
+    "title": "Networking Complaint",
+    "category": "Admissions",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/overview",
+    "local_path": "data/raw/docs/Admissions/viewform.docx",
+    "content_hash": "b99885119f0207b81c795c42ce8d5051"
+  },
+  {
+    "doc_id": "html_8a3f70796c",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Admissions",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/phd/overview",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/overview",
+    "local_path": "data/raw/web_pages/Admissions/Indian_Institute_of_Informatio_8a3f70.txt",
+    "content_hash": "8a3f70796ccf37a8c235a109ed4beb4d"
+  },
+  {
+    "doc_id": "docx_1cc97b3038",
+    "title": "Networking Complaint",
+    "category": "Admissions",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/resources",
+    "local_path": "data/raw/docs/Admissions/viewform.docx",
+    "content_hash": "1cc97b303847d757e30cf19fe8b51195"
+  },
+  {
+    "doc_id": "html_f1e7fd6581",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Admissions",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/phd/resources",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/resources",
+    "local_path": "data/raw/web_pages/Admissions/Indian_Institute_of_Informatio_f1e7fd.txt",
+    "content_hash": "f1e7fd6581e80401b3fa5a8ef29d5c60"
+  },
+  {
+    "doc_id": "docx_bec82e8c1b",
+    "title": "Networking Complaint",
+    "category": "Admissions",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/operational-details",
+    "local_path": "data/raw/docs/Admissions/viewform.docx",
+    "content_hash": "bec82e8c1bfce4cfbdb82339467db0ab"
+  },
+  {
+    "doc_id": "html_f52226455f",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Admissions",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/phd/operational-details",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/operational-details",
+    "local_path": "data/raw/web_pages/Admissions/Indian_Institute_of_Informatio_f52226.txt",
+    "content_hash": "f52226455f151cf412fd414c04086a4a"
+  },
+  {
+    "doc_id": "docx_d05b6fe9a6",
+    "title": "Networking Complaint",
+    "category": "Admissions",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/structure",
+    "local_path": "data/raw/docs/Admissions/viewform.docx",
+    "content_hash": "d05b6fe9a6708c818a14e1ae35247e1a"
+  },
+  {
+    "doc_id": "html_b953294d3c",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Admissions",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/phd/structure",
+    "parent_page_url": "https://www.iiitn.ac.in/phd/structure",
+    "local_path": "data/raw/web_pages/Admissions/Indian_Institute_of_Informatio_b95329.txt",
+    "content_hash": "b953294d3c937771fc71fc6d84c45ea8"
+  },
+  {
+    "doc_id": "docx_2cdef712ac",
+    "title": "Networking Complaint",
+    "category": "Research",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/research/patents",
+    "local_path": "data/raw/docs/Research/viewform.docx",
+    "content_hash": "2cdef712ac6e3c8a7033898408739ca3"
+  },
+  {
+    "doc_id": "html_a8763b17a2",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Research",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/research/patents",
+    "parent_page_url": "https://www.iiitn.ac.in/research/patents",
+    "local_path": "data/raw/web_pages/Research/Indian_Institute_of_Informatio_a8763b.txt",
+    "content_hash": "a8763b17a20b89d4660e9868c765f661"
+  },
+  {
+    "doc_id": "docx_4fa99b3026",
+    "title": "Networking Complaint",
+    "category": "Research",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/research/projects",
+    "local_path": "data/raw/docs/Research/viewform.docx",
+    "content_hash": "4fa99b30268b20a23f67b08e3dc951d5"
+  },
+  {
+    "doc_id": "html_91cf45e46b",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Research",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/research/projects",
+    "parent_page_url": "https://www.iiitn.ac.in/research/projects",
+    "local_path": "data/raw/web_pages/Research/Indian_Institute_of_Informatio_91cf45.txt",
+    "content_hash": "91cf45e46b4c0ec0844e34968d0a48cf"
+  },
+  {
+    "doc_id": "docx_92969febd0",
+    "title": "Networking Complaint",
+    "category": "Research",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/research/consultancy",
+    "local_path": "data/raw/docs/Research/viewform.docx",
+    "content_hash": "92969febd074ad5a5f93c9865f2b0007"
+  },
+  {
+    "doc_id": "html_85618926e7",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Research",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/research/consultancy",
+    "parent_page_url": "https://www.iiitn.ac.in/research/consultancy",
+    "local_path": "data/raw/web_pages/Research/Indian_Institute_of_Informatio_856189.txt",
+    "content_hash": "85618926e71c8ddd2c0098f4eabde817"
+  },
+  {
+    "doc_id": "docx_a02f0b88c5",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "a02f0b88c5def012d522c4e5cf17d39f"
+  },
+  {
+    "doc_id": "html_4664ff8b76",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements",
+    "parent_page_url": "https://www.iiitn.ac.in/placements",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_4664ff.txt",
+    "content_hash": "4664ff8b769eded289e55c7e9ad3c0a6"
+  },
+  {
+    "doc_id": "pdf_436ae8fc10",
+    "title": "Download",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/13e23253d2614bad887bf90ef8c9f0f6.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/pdfs/Placements/13e23253d2614bad887bf90ef8c9f0f6.pdf",
+    "content_hash": "436ae8fc10fe0f982bc970a3da7f3037"
+  },
+  {
+    "doc_id": "pdf_d573e74863",
+    "title": "Download",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/09c8c9cdd91349008a7bc2b274a0332f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/pdfs/Placements/09c8c9cdd91349008a7bc2b274a0332f.pdf",
+    "content_hash": "d573e74863d65a64ce10926cff3af198"
+  },
+  {
+    "doc_id": "pdf_a74cab6699",
+    "title": "Download",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1a3a71da4eea490ba675a531227d5677.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/pdfs/Placements/1a3a71da4eea490ba675a531227d5677.pdf",
+    "content_hash": "a74cab6699874ccd01ff4c146b0fea75"
+  },
+  {
+    "doc_id": "pdf_6384f05ae2",
+    "title": "Download",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d3330849f080406fb58878a271e697d8.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/pdfs/Placements/d3330849f080406fb58878a271e697d8.pdf",
+    "content_hash": "6384f05ae212e953271b800e4baebd54"
+  },
+  {
+    "doc_id": "pdf_32d0cde597",
+    "title": "Faculty Area of Expertise",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/689892c536734c68af8583be8035a0ce.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/pdfs/Placements/689892c536734c68af8583be8035a0ce.pdf",
+    "content_hash": "32d0cde5973d25ca8cb05bf79697ae0d"
+  },
+  {
+    "doc_id": "docx_f168026961",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "f1680269612d1802ee2e8686b26d5906"
+  },
+  {
+    "doc_id": "html_a6af1644fc",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements/internships",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/internships",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_a6af16.txt",
+    "content_hash": "a6af1644fc87ec066e4d17c7222e5c5b"
+  },
+  {
+    "doc_id": "docx_641ad8714a",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/statistics",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "641ad8714a2531f001cd96fa52895fce"
+  },
+  {
+    "doc_id": "html_f4a9f2a258",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements/statistics",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/statistics",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_f4a9f2.txt",
+    "content_hash": "f4a9f2a258b486d53abbe1e338a88b7e"
+  },
+  {
+    "doc_id": "pdf_9ac551020d",
+    "title": "Download",
+    "category": "Placements",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/64806b4a44994cada28e5f71c46ef81e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/students",
+    "local_path": "data/raw/pdfs/Placements/64806b4a44994cada28e5f71c46ef81e.pdf",
+    "content_hash": "9ac551020d008d50edce98ab05ccca77"
+  },
+  {
+    "doc_id": "docx_f0d6d13e80",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/students",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "f0d6d13e8098dafeddb604bb4ce55150"
+  },
+  {
+    "doc_id": "html_d8f2c1790f",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements/students",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/students",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_d8f2c1.txt",
+    "content_hash": "d8f2c1790f537cc848e6433ddf98ac4e"
+  },
+  {
+    "doc_id": "docx_7dd3775677",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/companies",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "7dd3775677430d7fb231883a26b465f1"
+  },
+  {
+    "doc_id": "html_bd704e0ea1",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements/companies",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/companies",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_bd704e.txt",
+    "content_hash": "bd704e0ea18c128600f56f09fb1bd478"
+  },
+  {
+    "doc_id": "docx_b1b53abfbd",
+    "title": "Networking Complaint",
+    "category": "Placements",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/contact",
+    "local_path": "data/raw/docs/Placements/viewform.docx",
+    "content_hash": "b1b53abfbd80ab27064c0c1da9c53fe1"
+  },
+  {
+    "doc_id": "html_3a84519b05",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Placements",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/placements/contact",
+    "parent_page_url": "https://www.iiitn.ac.in/placements/contact",
+    "local_path": "data/raw/web_pages/Placements/Indian_Institute_of_Informatio_3a8451.txt",
+    "content_hash": "3a84519b056ecc6b45673cf6459e7cbf"
+  },
+  {
+    "doc_id": "pdf_2f287056d3",
+    "title": "\ud83d\udcc4 Guide to RTI Act,2005(English)",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/56d3cb50acf04062b0acd5153d19a9eb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/pdfs/General/56d3cb50acf04062b0acd5153d19a9eb.pdf",
+    "content_hash": "2f287056d338255fd1f57587c5560028"
+  },
+  {
+    "doc_id": "pdf_8341d8d62d",
+    "title": "\ud83d\udcc4 RTI Act 2005 (Hindi)",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/3af3b5fde0524f66969bd9914d55857d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/pdfs/General/3af3b5fde0524f66969bd9914d55857d.pdf",
+    "content_hash": "8341d8d62d9d59f51bbba624f86fb289"
+  },
+  {
+    "doc_id": "pdf_2cf8f4769c",
+    "title": "\ud83d\udcc4 RTI Act 2005 (Marathi)",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/96790e0489274196890282dbec9c8a26.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/pdfs/General/96790e0489274196890282dbec9c8a26.pdf",
+    "content_hash": "2cf8f4769c798b73869dd11ceb1c1560"
+  },
+  {
+    "doc_id": "pdf_d68ab92e58",
+    "title": "\ud83d\udcc4 RTI Act 2005(English)",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c1cb1f29ef88419ea30d01fda97a0daf.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/pdfs/General/c1cb1f29ef88419ea30d01fda97a0daf.pdf",
+    "content_hash": "d68ab92e583f80168ef4b766d95f922e"
+  },
+  {
+    "doc_id": "docx_e79030df8d",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "e79030df8d5f02d1088db8eb6bb4dfde"
+  },
+  {
+    "doc_id": "html_c3e3b1db69",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/rti",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/rti",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_c3e3b1.txt",
+    "content_hash": "c3e3b1db69656581e6d15273d1753658"
+  },
+  {
+    "doc_id": "pdf_351ea6e902",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cc8d8570ba7347c0954c8fa8e8a02814.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/cc8d8570ba7347c0954c8fa8e8a02814.pdf",
+    "content_hash": "351ea6e90265492319c5fea587dbb1fb"
+  },
+  {
+    "doc_id": "pdf_93fd33ea93",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f0d2ead399234d43ad5274e8b02e8a80.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/f0d2ead399234d43ad5274e8b02e8a80.pdf",
+    "content_hash": "93fd33ea935ae6fc1e5e608db06f23ad"
+  },
+  {
+    "doc_id": "pdf_5b09d8b6dc",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/818b135d91ef496ca2c647dec6df5e6a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/818b135d91ef496ca2c647dec6df5e6a.pdf",
+    "content_hash": "5b09d8b6dc7a616316e3c6cce6763d45"
+  },
+  {
+    "doc_id": "pdf_baeb382a7c",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/36cce28b4b3e4e5c9f8e909fdd06b99f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/36cce28b4b3e4e5c9f8e909fdd06b99f.pdf",
+    "content_hash": "baeb382a7cd3b85d189ebe5ce94ea735"
+  },
+  {
+    "doc_id": "pdf_78e20fae42",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f200430b2fde4357a2cab810c4453636.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/f200430b2fde4357a2cab810c4453636.pdf",
+    "content_hash": "78e20fae42984de5b99752438b1fb5f2"
+  },
+  {
+    "doc_id": "pdf_9a72465025",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c5db841fec204b13a1051418f3249724.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/c5db841fec204b13a1051418f3249724.pdf",
+    "content_hash": "9a72465025bdcf292e558c764734678b"
+  },
+  {
+    "doc_id": "pdf_5dae8edb6c",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b9c0824318f449c2884157353f9a2d9a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/b9c0824318f449c2884157353f9a2d9a.pdf",
+    "content_hash": "5dae8edb6c170176933038677e1d8494"
+  },
+  {
+    "doc_id": "pdf_e5daa47758",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cfea970f21974a97a5d6332aab990ee7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/cfea970f21974a97a5d6332aab990ee7.pdf",
+    "content_hash": "e5daa47758326cb8955782e53e2332ef"
+  },
+  {
+    "doc_id": "pdf_6b044a63e4",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c51f845d52234d398fa1a76f79655018.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/c51f845d52234d398fa1a76f79655018.pdf",
+    "content_hash": "6b044a63e4a3d65d358614931f3e3549"
+  },
+  {
+    "doc_id": "pdf_086ec719f4",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6f401fa20bfc4a33abecdb17bd61d2d3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/6f401fa20bfc4a33abecdb17bd61d2d3.pdf",
+    "content_hash": "086ec719f408cec2561dbf03e0753751"
+  },
+  {
+    "doc_id": "pdf_d4d501dd70",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/15bbc768cdbd41e8b72bb60b0960ebae.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/15bbc768cdbd41e8b72bb60b0960ebae.pdf",
+    "content_hash": "d4d501dd700008dd72002f9c7883d81f"
+  },
+  {
+    "doc_id": "pdf_acbaf83180",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/91346f0cd1dc4566b43a60eb7e20d71e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/91346f0cd1dc4566b43a60eb7e20d71e.pdf",
+    "content_hash": "acbaf8318078f9f8d986e1adf920a21a"
+  },
+  {
+    "doc_id": "pdf_19d2c31234",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/30c27ae9842a409a88bd95ad625f2142.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/30c27ae9842a409a88bd95ad625f2142.pdf",
+    "content_hash": "19d2c312342d052721f7cf745e8f72ab"
+  },
+  {
+    "doc_id": "pdf_1bf694e0f6",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f6b9bf4db8cf4f5385dc3552062c5b2c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/f6b9bf4db8cf4f5385dc3552062c5b2c.pdf",
+    "content_hash": "1bf694e0f69b0602deffb724ea44f78e"
+  },
+  {
+    "doc_id": "pdf_ee51c04a8b",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/da4453f90332411ab96db34db8ab5bef.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/da4453f90332411ab96db34db8ab5bef.pdf",
+    "content_hash": "ee51c04a8b844fefdc0b6ad60b8864da"
+  },
+  {
+    "doc_id": "pdf_e397d3af7e",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b4c6c1ee1dc24ebb9fa2e2dfab9c751f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/b4c6c1ee1dc24ebb9fa2e2dfab9c751f.pdf",
+    "content_hash": "e397d3af7ec74448d980fc5ac277e0ad"
+  },
+  {
+    "doc_id": "pdf_49788df4a2",
+    "title": "View English PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2a8fbb8bfb6b46f58ee2834029be6473.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/2a8fbb8bfb6b46f58ee2834029be6473.pdf",
+    "content_hash": "49788df4a2fe168d0a737e95a2bd0bf5"
+  },
+  {
+    "doc_id": "pdf_e143e26641",
+    "title": "View Hindi PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/61180675bdde46c08fdae6171cca6bc9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/pdfs/Institute/61180675bdde46c08fdae6171cca6bc9.pdf",
+    "content_hash": "e143e26641e293610be0f0fa881bb638"
+  },
+  {
+    "doc_id": "docx_7740921447",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "7740921447827c22a8d1afcab8180ddb"
+  },
+  {
+    "doc_id": "html_8e4e86b111",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualreports",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_8e4e86.txt",
+    "content_hash": "8e4e86b111ccb2ace0bfb9b2732a0baf"
+  },
+  {
+    "doc_id": "pdf_29e923dfa0",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ec2870dc494746768956affe1dce8d64.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/ec2870dc494746768956affe1dce8d64.pdf",
+    "content_hash": "29e923dfa00fb50e1983014a4cd7d81e"
+  },
+  {
+    "doc_id": "pdf_cc81dbca7a",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6f0bfdaba8a64d7a97d2cca8f05b42e9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/6f0bfdaba8a64d7a97d2cca8f05b42e9.pdf",
+    "content_hash": "cc81dbca7a0188041b79554fcc9f15a7"
+  },
+  {
+    "doc_id": "pdf_7e035052b8",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/01da81a07d1e45be8e908469ebc3b80b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/01da81a07d1e45be8e908469ebc3b80b.pdf",
+    "content_hash": "7e035052b8228fd532e1d96a5e2c3704"
+  },
+  {
+    "doc_id": "pdf_c3ab496884",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/fe049880766e44279569283527916073.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/fe049880766e44279569283527916073.pdf",
+    "content_hash": "c3ab49688400e772aeac8318dce82e74"
+  },
+  {
+    "doc_id": "pdf_0f58fd9839",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/549fdc0907244f1aab175deca2786388.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/549fdc0907244f1aab175deca2786388.pdf",
+    "content_hash": "0f58fd98399e86ca73ec3ab9a8c192a1"
+  },
+  {
+    "doc_id": "pdf_b44f3a5560",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9f764de6435146cfa019a5b5e6ac6f8b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/9f764de6435146cfa019a5b5e6ac6f8b.pdf",
+    "content_hash": "b44f3a5560be90b622daf555a045566e"
+  },
+  {
+    "doc_id": "pdf_72e5c1cbdc",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b0b19837c62b48f9aa3057eda013d9b7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/b0b19837c62b48f9aa3057eda013d9b7.pdf",
+    "content_hash": "72e5c1cbdc2f96f5866db98f7283f777"
+  },
+  {
+    "doc_id": "pdf_f472d93417",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a9cd97ced84f45618b6da845c423f65f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/a9cd97ced84f45618b6da845c423f65f.pdf",
+    "content_hash": "f472d93417b68d2d58f59aa2f70b338d"
+  },
+  {
+    "doc_id": "pdf_17d897a853",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c36ba5ec91d64356bfea82de079fc998.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/c36ba5ec91d64356bfea82de079fc998.pdf",
+    "content_hash": "17d897a853ae26c1a30893e9efa3c524"
+  },
+  {
+    "doc_id": "pdf_c802e889bf",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1bb99f6f43a048d5b1f409a0ce083467.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/1bb99f6f43a048d5b1f409a0ce083467.pdf",
+    "content_hash": "c802e889bf8eef2806624babe7570c32"
+  },
+  {
+    "doc_id": "pdf_3f575fa029",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bcf525eaf6f4405894c427beba96d2a0.PDF",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/bcf525eaf6f4405894c427beba96d2a0.PDF.pdf",
+    "content_hash": "3f575fa029c3196e2a1b13334618e87e"
+  },
+  {
+    "doc_id": "pdf_1db7867314",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/09bcbd0399bf492092da26a6e76fbabc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/09bcbd0399bf492092da26a6e76fbabc.pdf",
+    "content_hash": "1db7867314652884e7125c788dd6b371"
+  },
+  {
+    "doc_id": "pdf_eb7e8a3d2e",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f2d68ed011a94de3a5fc246b5e736ed1.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/f2d68ed011a94de3a5fc246b5e736ed1.pdf",
+    "content_hash": "eb7e8a3d2ed76cf37afcfdeba7a32e0f"
+  },
+  {
+    "doc_id": "pdf_d83eaa78b1",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1df017772e104dcd91e82546dbbdd5c8.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/1df017772e104dcd91e82546dbbdd5c8.pdf",
+    "content_hash": "d83eaa78b17babd372c6dd09f09f2599"
+  },
+  {
+    "doc_id": "pdf_2e4e8534f4",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9097873a7cdf41fcb4e399cee59afbf3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/9097873a7cdf41fcb4e399cee59afbf3.pdf",
+    "content_hash": "2e4e8534f4605e62e1b1606716ebccac"
+  },
+  {
+    "doc_id": "pdf_89715e0332",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9638cd133c49498183900eac2d5dd985.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/9638cd133c49498183900eac2d5dd985.pdf",
+    "content_hash": "89715e03329fb8c3f2d0857e11aec680"
+  },
+  {
+    "doc_id": "pdf_27d47978b3",
+    "title": "View PDF",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/3c167e20e32f4ecbb09b9ecb018a468d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/pdfs/Institute/3c167e20e32f4ecbb09b9ecb018a468d.pdf",
+    "content_hash": "27d47978b3960ecdc898f4f84b9ad015"
+  },
+  {
+    "doc_id": "docx_f73216a871",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "f73216a8712d28c5edb07364272558bf"
+  },
+  {
+    "doc_id": "html_e7b9656fee",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/annualaccounts",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_e7b965.txt",
+    "content_hash": "e7b9656fee69834ed82ac408085ac10f"
+  },
+  {
+    "doc_id": "pdf_5342727a08",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4d0371b3e3f64ee1b1d9a7b811243b25.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/4d0371b3e3f64ee1b1d9a7b811243b25.pdf",
+    "content_hash": "5342727a0843c12fcfddb13db1af51cc"
+  },
+  {
+    "doc_id": "pdf_3af99eacf6",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ca0d952e2c7b498f90347902ab2802a9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/ca0d952e2c7b498f90347902ab2802a9.pdf",
+    "content_hash": "3af99eacf64d31e6ac375e112a8fa579"
+  },
+  {
+    "doc_id": "pdf_83f0f00869",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/41cc07a1fc8f4947a4b32972710b9903.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/41cc07a1fc8f4947a4b32972710b9903.pdf",
+    "content_hash": "83f0f00869eae2fdb4332f88bf095e3c"
+  },
+  {
+    "doc_id": "pdf_2d7fa8b53c",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b380c67017644e63a73f7e302e3b14ae.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/b380c67017644e63a73f7e302e3b14ae.pdf",
+    "content_hash": "2d7fa8b53c4cc1e631e976c1bdc1d3d6"
+  },
+  {
+    "doc_id": "pdf_84ab1b5319",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/12542c629091432a9a79ce46ebb3298b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/12542c629091432a9a79ce46ebb3298b.pdf",
+    "content_hash": "84ab1b5319ec49d52af0f289a4f21cb1"
+  },
+  {
+    "doc_id": "pdf_962e25148b",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4dd2e0d5bd4b48e88c6eb3438b185353.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/4dd2e0d5bd4b48e88c6eb3438b185353.pdf",
+    "content_hash": "962e25148bfeb9af57a2bcc3ca41b746"
+  },
+  {
+    "doc_id": "pdf_396929fd22",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/df761e56e9ec4d38b6429b69773890be.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/df761e56e9ec4d38b6429b69773890be.pdf",
+    "content_hash": "396929fd22ecfaa832aa5f905c28eae6"
+  },
+  {
+    "doc_id": "pdf_ee8afa2b13",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d953c1e149174e00bfdd10142c92ef41.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/d953c1e149174e00bfdd10142c92ef41.pdf",
+    "content_hash": "ee8afa2b13e262b9d3679e50c7c9a50c"
+  },
+  {
+    "doc_id": "pdf_649812050e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/5ce8c7f42fad4169bad7f6a4e0c98760.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/5ce8c7f42fad4169bad7f6a4e0c98760.pdf",
+    "content_hash": "649812050e24e8491638b910ee87133d"
+  },
+  {
+    "doc_id": "pdf_9a126e7aa1",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/5dff50a7261443cab075a0aa59b5ae3b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/5dff50a7261443cab075a0aa59b5ae3b.pdf",
+    "content_hash": "9a126e7aa108498e8e08676d31e6a5a2"
+  },
+  {
+    "doc_id": "pdf_2bbb3d89aa",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ebd6234c38c04b798fa2a6bc3ef30513.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/ebd6234c38c04b798fa2a6bc3ef30513.pdf",
+    "content_hash": "2bbb3d89aac6a4d2a2219bbcb660f4eb"
+  },
+  {
+    "doc_id": "pdf_727f6f7d45",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/611457eed79940779be38ba0fe12ae7e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/611457eed79940779be38ba0fe12ae7e.pdf",
+    "content_hash": "727f6f7d45e45c8b586ccd13d8088ffb"
+  },
+  {
+    "doc_id": "pdf_99b76cf28f",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a4fcd22b2de149f4a28cf3e27fa0dc87.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/a4fcd22b2de149f4a28cf3e27fa0dc87.pdf",
+    "content_hash": "99b76cf28f20acd90201b3b99191cb93"
+  },
+  {
+    "doc_id": "pdf_3567917197",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/69b5f2ded5a44b87a3b4d6b96bebe5fc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/69b5f2ded5a44b87a3b4d6b96bebe5fc.pdf",
+    "content_hash": "35679171975ff734c3e6a2279dfa602a"
+  },
+  {
+    "doc_id": "pdf_6b826f791e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/7274fe9447cf4ecf89454850d5de0cd2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/7274fe9447cf4ecf89454850d5de0cd2.pdf",
+    "content_hash": "6b826f791ebf64adeb13afdc7261361b"
+  },
+  {
+    "doc_id": "pdf_65da7b4398",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/72261052719948aa9240c06e71b56d09.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/72261052719948aa9240c06e71b56d09.pdf",
+    "content_hash": "65da7b43989603cec956dcf933596ae6"
+  },
+  {
+    "doc_id": "pdf_0509bebcd3",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/43c9a923e588449d8c349af474d7431b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/43c9a923e588449d8c349af474d7431b.pdf",
+    "content_hash": "0509bebcd3b0689af5cbfcd29d0d635e"
+  },
+  {
+    "doc_id": "pdf_033a407dcc",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/832766c15efd4d6186e1e06c018773fa.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/832766c15efd4d6186e1e06c018773fa.pdf",
+    "content_hash": "033a407dccbf1244877fbca81b62c4b0"
+  },
+  {
+    "doc_id": "pdf_22368d2366",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/27b919a8ddc84e62b8c7a8a7c953e2c9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/27b919a8ddc84e62b8c7a8a7c953e2c9.pdf",
+    "content_hash": "22368d2366d837a835cd866fcdad7102"
+  },
+  {
+    "doc_id": "pdf_7a347b0400",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b26adcd465984e0097f7be42bdae31a3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/b26adcd465984e0097f7be42bdae31a3.pdf",
+    "content_hash": "7a347b04009141e31ab8eba155bd3d2c"
+  },
+  {
+    "doc_id": "pdf_15694aed48",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/80d5768828274899a30327c0e43212bb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/80d5768828274899a30327c0e43212bb.pdf",
+    "content_hash": "15694aed4874fff951af8886a4d466a9"
+  },
+  {
+    "doc_id": "pdf_8026c9d4e0",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/da4505c9a01243f083d3f70737534c6c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/da4505c9a01243f083d3f70737534c6c.pdf",
+    "content_hash": "8026c9d4e091544a0d702170439c746f"
+  },
+  {
+    "doc_id": "pdf_0ef9c204a1",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bb697483387b4a54b499653da09d3765.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/bb697483387b4a54b499653da09d3765.pdf",
+    "content_hash": "0ef9c204a156c4c571f59cbe61c15a1e"
+  },
+  {
+    "doc_id": "pdf_e2ee88b996",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/901453bf648143c8be7e7701eac5921a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/901453bf648143c8be7e7701eac5921a.pdf",
+    "content_hash": "e2ee88b9960529f8bf5a3f421a277961"
+  },
+  {
+    "doc_id": "pdf_7a3c37881e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4cd3ceacd2d744008c818379d12c9c31.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/4cd3ceacd2d744008c818379d12c9c31.pdf",
+    "content_hash": "7a3c37881e28fb09eb98230d52b65897"
+  },
+  {
+    "doc_id": "pdf_aad441b071",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2b99faa86df149c99a747447d945e5ed.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/2b99faa86df149c99a747447d945e5ed.pdf",
+    "content_hash": "aad441b0713e526bf71c3eaeae4cd57f"
+  },
+  {
+    "doc_id": "pdf_2711c500dd",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/78bdea0fa3e347eba498fe652cd3be36.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/78bdea0fa3e347eba498fe652cd3be36.pdf",
+    "content_hash": "2711c500dd3c9012c92441fe30ef33b7"
+  },
+  {
+    "doc_id": "pdf_cf6ab27ac7",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9f2b66c2321f428a9d774e00c9cc1e18.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/9f2b66c2321f428a9d774e00c9cc1e18.pdf",
+    "content_hash": "cf6ab27ac7960897e42502fcd9e714c0"
+  },
+  {
+    "doc_id": "pdf_6420574b6f",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/3d77410214e840c2be2e2ce9d23d35f2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/3d77410214e840c2be2e2ce9d23d35f2.pdf",
+    "content_hash": "6420574b6fbee478644a091345be9c21"
+  },
+  {
+    "doc_id": "pdf_42302c4993",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d5014622b9034d77b2a1480f34c65c8e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/d5014622b9034d77b2a1480f34c65c8e.pdf",
+    "content_hash": "42302c49930941cd582ebeadcdd97f3c"
+  },
+  {
+    "doc_id": "pdf_5c8d36d917",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2bd92f7c90284f349e7d94fd30f237a2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/pdfs/Institute/2bd92f7c90284f349e7d94fd30f237a2.pdf",
+    "content_hash": "5c8d36d9176e1d1583ce769072c8dbb9"
+  },
+  {
+    "doc_id": "docx_e17a7ae424",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "e17a7ae4244e4bea13410cbe39951d5c"
+  },
+  {
+    "doc_id": "html_f9d6a9a07d",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtireports",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_f9d6a9.txt",
+    "content_hash": "f9d6a9a07d5cc858edb8554cc8ef8bb2"
+  },
+  {
+    "doc_id": "docx_d78453c1e0",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtidetails",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "d78453c1e0b614dffa08ff09ac65a4db"
+  },
+  {
+    "doc_id": "html_e51e3ad51e",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/rtidetails",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rtidetails",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_e51e3a.txt",
+    "content_hash": "e51e3ad51e5f72a58b636b37e5978ec7"
+  },
+  {
+    "doc_id": "docx_ff408f32da",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rticontact",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "ff408f32da4ade86645db8b13b364a7c"
+  },
+  {
+    "doc_id": "html_ce70f59054",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/rticontact",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/rticontact",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_ce70f5.txt",
+    "content_hash": "ce70f5905405313d4b2826a3c478a498"
+  },
+  {
+    "doc_id": "pdf_a3829b2e3e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/23f63a8e2cb6447caa6b3fc2bde232fc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/23f63a8e2cb6447caa6b3fc2bde232fc.pdf",
+    "content_hash": "a3829b2e3e18fadcd6965cfa67015db8"
+  },
+  {
+    "doc_id": "pdf_6db6189490",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ecdafce686df4fc18911a06900cc9b4b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/ecdafce686df4fc18911a06900cc9b4b.pdf",
+    "content_hash": "6db6189490dc6b2c534baa5e5631610a"
+  },
+  {
+    "doc_id": "pdf_4743a9a4b9",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0ff41420b1cf4012982362f07f8b1034.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/0ff41420b1cf4012982362f07f8b1034.pdf",
+    "content_hash": "4743a9a4b9d9bc526afaf66e776012f9"
+  },
+  {
+    "doc_id": "pdf_e740e22e97",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c295509ed5664664afa6a42eb0a09ef3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/c295509ed5664664afa6a42eb0a09ef3.pdf",
+    "content_hash": "e740e22e976748f518d1e5d6163c191b"
+  },
+  {
+    "doc_id": "pdf_208388183b",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/03e193f99072423391dc0891231b04b3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/03e193f99072423391dc0891231b04b3.pdf",
+    "content_hash": "208388183b744f6f04442b64f711eb8e"
+  },
+  {
+    "doc_id": "pdf_06c4e4872e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/845f29a9d9124304b5a8b0025b5cb138.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/845f29a9d9124304b5a8b0025b5cb138.pdf",
+    "content_hash": "06c4e4872ef461716e515f1f6f45b6a8"
+  },
+  {
+    "doc_id": "pdf_6c6751dd57",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f030580de85842018a74a21d05fc9476.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/f030580de85842018a74a21d05fc9476.pdf",
+    "content_hash": "6c6751dd57d22ca668e72e38138210db"
+  },
+  {
+    "doc_id": "pdf_465079c341",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f475f0519d6d4dbea5fdaf265f08cff6.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/f475f0519d6d4dbea5fdaf265f08cff6.pdf",
+    "content_hash": "465079c341f3c452ac1be02aa746f5c7"
+  },
+  {
+    "doc_id": "pdf_fc341139e6",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/5d8c8126d9944267aae2541ff0455a3e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/5d8c8126d9944267aae2541ff0455a3e.pdf",
+    "content_hash": "fc341139e6ff1b43d21f403db0ba0042"
+  },
+  {
+    "doc_id": "pdf_266fad1b05",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a48e6683eeb9430b99040d4ea4e947ae.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/a48e6683eeb9430b99040d4ea4e947ae.pdf",
+    "content_hash": "266fad1b05fa1806f8c122954a49c64e"
+  },
+  {
+    "doc_id": "pdf_156496bacd",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c447542a1e6144b58f7a0237b2481792.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/c447542a1e6144b58f7a0237b2481792.pdf",
+    "content_hash": "156496bacde9afc0f4a48aca6e208b71"
+  },
+  {
+    "doc_id": "pdf_349df49036",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/82bd30728b5e4cec8b0525b775d32ae1.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/82bd30728b5e4cec8b0525b775d32ae1.pdf",
+    "content_hash": "349df490363a63285c0330df3149af17"
+  },
+  {
+    "doc_id": "pdf_c2be475704",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d2161c65978a4a298a1fb152c6774c50.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/d2161c65978a4a298a1fb152c6774c50.pdf",
+    "content_hash": "c2be475704f8471a90a9b2a93205bde1"
+  },
+  {
+    "doc_id": "pdf_710bcc0f53",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4848c50284bd4ff2af4c1d8bd2701a49.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/4848c50284bd4ff2af4c1d8bd2701a49.pdf",
+    "content_hash": "710bcc0f535f7975314cd185018b25c7"
+  },
+  {
+    "doc_id": "pdf_7819aea79e",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4f902516eb18481fa583a42688b2fc1e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/4f902516eb18481fa583a42688b2fc1e.pdf",
+    "content_hash": "7819aea79eabe4ca669c8cfa66cc05b9"
+  },
+  {
+    "doc_id": "pdf_a1cee9649c",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/15170fc7684940c39fb18888485408b0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/15170fc7684940c39fb18888485408b0.pdf",
+    "content_hash": "a1cee9649ca555dd95fe04367c1e02aa"
+  },
+  {
+    "doc_id": "pdf_28cb855ea0",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/7ae5ff2619694310bd2e3fd33e277341.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/7ae5ff2619694310bd2e3fd33e277341.pdf",
+    "content_hash": "28cb855ea0ec054e1de7dddbc867da2b"
+  },
+  {
+    "doc_id": "pdf_e1e5059978",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/71b262bf1c4142f3a97015c134e4346c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/71b262bf1c4142f3a97015c134e4346c.pdf",
+    "content_hash": "e1e5059978dbcc5fdb24faa0acb44572"
+  },
+  {
+    "doc_id": "pdf_c41ccd4927",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f3cd8dab12d74c75ac70cdd097163b29.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/f3cd8dab12d74c75ac70cdd097163b29.pdf",
+    "content_hash": "c41ccd492737f6cd640cad2ff14d61c3"
+  },
+  {
+    "doc_id": "pdf_af28a14c9f",
+    "title": "Click Here",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/784489f037be4d70a16ec2c860cbe3fb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/pdfs/Institute/784489f037be4d70a16ec2c860cbe3fb.pdf",
+    "content_hash": "af28a14c9f0ec8f311fe5995d1875208"
+  },
+  {
+    "doc_id": "docx_202adf36a0",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "202adf36a0bb2f979efc5199c7216b7d"
+  },
+  {
+    "doc_id": "html_df1475f97c",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/minutesofmeeting",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_df1475.txt",
+    "content_hash": "df1475f97ca3ced2c61b932e0d40324e"
+  },
+  {
+    "doc_id": "pdf_7da6ba51f1",
+    "title": "Dr. Aatish Daryapurkar",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bf83e17ce87c409f913af11e86c82a05.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/bf83e17ce87c409f913af11e86c82a05.pdf",
+    "content_hash": "7da6ba51f13bae7ec40b29961b1aade8"
+  },
+  {
+    "doc_id": "pdf_41890279b4",
+    "title": "Dr Anuradha Singh",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1e338e123bab4506ac181706473dfa04.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/1e338e123bab4506ac181706473dfa04.pdf",
+    "content_hash": "41890279b41144164acdf7895c99a17d"
+  },
+  {
+    "doc_id": "pdf_a587682a5f",
+    "title": "Dr. Charu Goel",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/61ab05e63d2f4bb1b5c7e47393fd24a7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/61ab05e63d2f4bb1b5c7e47393fd24a7.pdf",
+    "content_hash": "a587682a5fc8643a7aa69d590b9756c9"
+  },
+  {
+    "doc_id": "pdf_8de63b7864",
+    "title": "Dr Deepmala Baghel",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/be9221dcb1bf4889bb19162c32c245cd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/be9221dcb1bf4889bb19162c32c245cd.pdf",
+    "content_hash": "8de63b7864190af4400d977e61605329"
+  },
+  {
+    "doc_id": "pdf_fd9ea136dd",
+    "title": "Dr Kirti Dorshetwar",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f03cbaeb90e94cfcb15f5d5952f51b3a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/f03cbaeb90e94cfcb15f5d5952f51b3a.pdf",
+    "content_hash": "fd9ea136dd673ac349b845e288799ffc"
+  },
+  {
+    "doc_id": "pdf_264c852372",
+    "title": "Dr Pooja Jain",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/18e5f2650fa94efd8c4cc10c22444cd7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/18e5f2650fa94efd8c4cc10c22444cd7.pdf",
+    "content_hash": "264c852372b2fd51715f480de2425d4c"
+  },
+  {
+    "doc_id": "pdf_a07d5973b6",
+    "title": "Dr Jitendra Tenbhurne",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a4b920d3b4ed4b9b94b56b677c51b976.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/a4b920d3b4ed4b9b94b56b677c51b976.pdf",
+    "content_hash": "a07d5973b6a3f0baf9daa3df6b26bbe4"
+  },
+  {
+    "doc_id": "pdf_794980c995",
+    "title": "Dr. Tapan Jain",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d8d0aabe2d2a4344a4876f4482015b30.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/d8d0aabe2d2a4344a4876f4482015b30.pdf",
+    "content_hash": "794980c9958fc2704f8c0e965ace8fa4"
+  },
+  {
+    "doc_id": "pdf_59ba48bf4f",
+    "title": "Dr Prasad Joshi",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/719855327a634c069f14d677029907dd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/719855327a634c069f14d677029907dd.pdf",
+    "content_hash": "59ba48bf4f191d92e8abb5602d118d28"
+  },
+  {
+    "doc_id": "pdf_af3f9fd89b",
+    "title": "Dr Ankit Bhurane",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e8e649054b1f4d44bfb9252586f1eba0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/e8e649054b1f4d44bfb9252586f1eba0.pdf",
+    "content_hash": "af3f9fd89bdb7c5c2f2a0af7b258d6f2"
+  },
+  {
+    "doc_id": "pdf_fe9e829924",
+    "title": "Shri Kailas Dakhale",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/818c3cd5ef054e859c0c16becaff6cdd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/818c3cd5ef054e859c0c16becaff6cdd.pdf",
+    "content_hash": "fe9e8299248ced32bf5e96a5ecf83084"
+  },
+  {
+    "doc_id": "pdf_0b636ca219",
+    "title": "Dr O. G Kakade",
+    "category": "Institute",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d066aedebba8499f847c1e9522145655.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/pdfs/Institute/d066aedebba8499f847c1e9522145655.pdf",
+    "content_hash": "0b636ca219e17b0752f8c995dcb9d07e"
+  },
+  {
+    "doc_id": "docx_a9c2b5dd52",
+    "title": "Networking Complaint",
+    "category": "Institute",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/docs/Institute/viewform.docx",
+    "content_hash": "a9c2b5dd52edbea6e8fe6a01abc6ba0b"
+  },
+  {
+    "doc_id": "html_696dd5c576",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Institute",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "parent_page_url": "https://www.iiitn.ac.in/institute/immutableproperties",
+    "local_path": "data/raw/web_pages/Institute/Indian_Institute_of_Informatio_696dd5.txt",
+    "content_hash": "696dd5c576a6015c05bebc3918b65275"
+  },
+  {
+    "doc_id": "pdf_e884398698",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cf96fe6a40174e3c8dae6d1fab0057b2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/cf96fe6a40174e3c8dae6d1fab0057b2.pdf",
+    "content_hash": "e8843986983e2ef3411ffbf48cc78084"
+  },
+  {
+    "doc_id": "pdf_95b442f6cd",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/712786f4d52a45c9af75d20313511033.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/712786f4d52a45c9af75d20313511033.pdf",
+    "content_hash": "95b442f6cdc258373f81e6309fa549f0"
+  },
+  {
+    "doc_id": "pdf_1f90da6599",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c656cb8e0c6e4f5db16d879d09d94acd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/c656cb8e0c6e4f5db16d879d09d94acd.pdf",
+    "content_hash": "1f90da65996badd88b19dfa733cae903"
+  },
+  {
+    "doc_id": "pdf_f991702c2b",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/15fd956dac6a4cef9f26f5aded50aba2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/15fd956dac6a4cef9f26f5aded50aba2.pdf",
+    "content_hash": "f991702c2b068e751c6c8f381d045627"
+  },
+  {
+    "doc_id": "pdf_50d15d7bcd",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/18750147fc1846d8ab06714949449857.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/18750147fc1846d8ab06714949449857.pdf",
+    "content_hash": "50d15d7bcd151af1e559f19fafbb6671"
+  },
+  {
+    "doc_id": "pdf_ecda292a9e",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bc2c219d1de84cc0ac17dc4445ddfe86.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/bc2c219d1de84cc0ac17dc4445ddfe86.pdf",
+    "content_hash": "ecda292a9edb0628865dd9f27d0020a1"
+  },
+  {
+    "doc_id": "pdf_8f21621489",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6a7ddde15618487693d53c85a7e605ce.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6a7ddde15618487693d53c85a7e605ce.pdf",
+    "content_hash": "8f216214899661324021b50806f18cd0"
+  },
+  {
+    "doc_id": "pdf_6bef41e156",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b9f992e52b6e4d07805f26ac1697ea6e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/b9f992e52b6e4d07805f26ac1697ea6e.pdf",
+    "content_hash": "6bef41e156b0188ac0adf511f441127f"
+  },
+  {
+    "doc_id": "pdf_192da82ffc",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/8cc26f2da45640b7af96b16d148493cb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/8cc26f2da45640b7af96b16d148493cb.pdf",
+    "content_hash": "192da82ffc8f52230f003390f894b901"
+  },
+  {
+    "doc_id": "pdf_709bfc2ed0",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b733369f4cb347f694dc153d7251b462.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/b733369f4cb347f694dc153d7251b462.pdf",
+    "content_hash": "709bfc2ed09ad828c768b53025ff66ae"
+  },
+  {
+    "doc_id": "pdf_e9c491fad8",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2520370cb44741b4aa582d952ffe4ce8.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/2520370cb44741b4aa582d952ffe4ce8.pdf",
+    "content_hash": "e9c491fad8443f8968281b316f8a1dd2"
+  },
+  {
+    "doc_id": "pdf_e0b603d134",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6dc47a4a2c4b4296bbd9b9f3178db98f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6dc47a4a2c4b4296bbd9b9f3178db98f.pdf",
+    "content_hash": "e0b603d1341ab8ce650ccfd414c82f22"
+  },
+  {
+    "doc_id": "pdf_86b4066b82",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ae349338b8074a428ac63a93ab94c688.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/ae349338b8074a428ac63a93ab94c688.pdf",
+    "content_hash": "86b4066b82e14add919893699eb65657"
+  },
+  {
+    "doc_id": "pdf_e6f7dc9d7e",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6f5f5003bf83409c82070cbedf9745e4.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6f5f5003bf83409c82070cbedf9745e4.pdf",
+    "content_hash": "e6f7dc9d7ef622194e6bd28d50bae423"
+  },
+  {
+    "doc_id": "pdf_1fd1f79ab8",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/495b5ffe98b441db87130def2ea0f7dd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/495b5ffe98b441db87130def2ea0f7dd.pdf",
+    "content_hash": "1fd1f79ab87206a49cbd3260021cb948"
+  },
+  {
+    "doc_id": "pdf_a6155b573d",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bd7e4f7278c34a848790694a512a3701.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/bd7e4f7278c34a848790694a512a3701.pdf",
+    "content_hash": "a6155b573dd0983d70513352d984d9a8"
+  },
+  {
+    "doc_id": "pdf_4ac698c8fd",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e838ff7e4bd54443a80c93e627269d62.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/e838ff7e4bd54443a80c93e627269d62.pdf",
+    "content_hash": "4ac698c8fd5dad048bca59fe3d95549f"
+  },
+  {
+    "doc_id": "pdf_857377f15a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f259e3d228534333b70a13a357d1f654.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/f259e3d228534333b70a13a357d1f654.pdf",
+    "content_hash": "857377f15a0dfccb5542fbf59a658f89"
+  },
+  {
+    "doc_id": "pdf_b0d4cc01d9",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c61dd30a3ed84dc78901195692b75733.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/c61dd30a3ed84dc78901195692b75733.pdf",
+    "content_hash": "b0d4cc01d96aaf9dee521178366c8093"
+  },
+  {
+    "doc_id": "pdf_d07b985bf4",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a7277db1323f48159502992bab50c085.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/a7277db1323f48159502992bab50c085.pdf",
+    "content_hash": "d07b985bf4ba3028c2b64406208ca92b"
+  },
+  {
+    "doc_id": "pdf_d1e92ed3ea",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/daa040815ab349ee92acd2403e08ccc2.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/daa040815ab349ee92acd2403e08ccc2.pdf",
+    "content_hash": "d1e92ed3ea01d6f81f022b06644eac73"
+  },
+  {
+    "doc_id": "pdf_967cee6b9a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c330d4a7465d4dde8915d3a7a4ee6d59.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/c330d4a7465d4dde8915d3a7a4ee6d59.pdf",
+    "content_hash": "967cee6b9a3671f2b542f774ae218eae"
+  },
+  {
+    "doc_id": "pdf_709988db5d",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cf509fc81c40497ba960ab16e924db00.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/cf509fc81c40497ba960ab16e924db00.pdf",
+    "content_hash": "709988db5df32fccd7b6d21237e2af05"
+  },
+  {
+    "doc_id": "pdf_7499a8f7ba",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/917803b7305f4acabc722ab69638bceb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/917803b7305f4acabc722ab69638bceb.pdf",
+    "content_hash": "7499a8f7bac2567cdf6449010529732e"
+  },
+  {
+    "doc_id": "pdf_934b3bf65a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/74e561749c864f59956ba50411c2485f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/74e561749c864f59956ba50411c2485f.pdf",
+    "content_hash": "934b3bf65a6f6cec6563c361fb0a1b08"
+  },
+  {
+    "doc_id": "pdf_1c7c4f0098",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/aba4971975b94b559ec2af289d52c388.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/aba4971975b94b559ec2af289d52c388.pdf",
+    "content_hash": "1c7c4f00981e15e89c470b38e8de6f47"
+  },
+  {
+    "doc_id": "pdf_8b7746ae42",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e1b4254843024b0eb4e31d4e0625ad87.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/e1b4254843024b0eb4e31d4e0625ad87.pdf",
+    "content_hash": "8b7746ae422e12627ca7d71e0020e5e4"
+  },
+  {
+    "doc_id": "pdf_e42accfe84",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d445642e0b51459a8f73829a1e451f51.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/d445642e0b51459a8f73829a1e451f51.pdf",
+    "content_hash": "e42accfe84befdcb8e48292dd6388357"
+  },
+  {
+    "doc_id": "pdf_269d470734",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b722f30be449444a8c5a5130028a7c6a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/b722f30be449444a8c5a5130028a7c6a.pdf",
+    "content_hash": "269d47073485f27959f5ff895dd9f78c"
+  },
+  {
+    "doc_id": "pdf_6fe5832666",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d839aa83d30a47e2b77064838ba03ae1.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/d839aa83d30a47e2b77064838ba03ae1.pdf",
+    "content_hash": "6fe5832666ac2e2bb694b4d34e303215"
+  },
+  {
+    "doc_id": "pdf_8393be637f",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c2f1ab9c047f4bf4aa90356cc285e23c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/c2f1ab9c047f4bf4aa90356cc285e23c.pdf",
+    "content_hash": "8393be637fb384a8e9f6b7c0f318fb94"
+  },
+  {
+    "doc_id": "pdf_5133e11cfe",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/7802026b3e424c738ce4ec28f24f5c0d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/7802026b3e424c738ce4ec28f24f5c0d.pdf",
+    "content_hash": "5133e11cfeded99d58a4696117c23e1b"
+  },
+  {
+    "doc_id": "pdf_0b36931a59",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e5a89506cefd4ea1b01538b23a460e6a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/e5a89506cefd4ea1b01538b23a460e6a.pdf",
+    "content_hash": "0b36931a5974018812253ae132834119"
+  },
+  {
+    "doc_id": "pdf_5fccbe00a2",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2da680cb59ec41e2bd4dd066ccb608c7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/2da680cb59ec41e2bd4dd066ccb608c7.pdf",
+    "content_hash": "5fccbe00a2498da5f19f78b7dbaaff1d"
+  },
+  {
+    "doc_id": "pdf_653e684bf3",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6307728ed433495082b3a4f3a82d8be4.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6307728ed433495082b3a4f3a82d8be4.pdf",
+    "content_hash": "653e684bf3ba00cf893cf67f9edbb9cd"
+  },
+  {
+    "doc_id": "pdf_48a6df8b85",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e7d18a29c7274645b1168023e6799c6f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/e7d18a29c7274645b1168023e6799c6f.pdf",
+    "content_hash": "48a6df8b851dcbf1c78bc4f1469dd4ab"
+  },
+  {
+    "doc_id": "pdf_21002d9356",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/fe2bfce0b8744442a3a8b2899eb9e996.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/fe2bfce0b8744442a3a8b2899eb9e996.pdf",
+    "content_hash": "21002d935650ec0a1c674e36d7de9d80"
+  },
+  {
+    "doc_id": "pdf_6303418f38",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/26bdd25ed4bf4a908ce6c91ee4c5d546.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/26bdd25ed4bf4a908ce6c91ee4c5d546.pdf",
+    "content_hash": "6303418f38d399e33946e0483a0c2211"
+  },
+  {
+    "doc_id": "pdf_f032126533",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/7dff7cf8ae32431d8a0ac91955a2c513.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/7dff7cf8ae32431d8a0ac91955a2c513.pdf",
+    "content_hash": "f03212653302b7cf15b949e52e95d3c8"
+  },
+  {
+    "doc_id": "pdf_c1f1b796f9",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/15d03f4c3c2e4eb9bbfbbd9ebc3098e3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/15d03f4c3c2e4eb9bbfbbd9ebc3098e3.pdf",
+    "content_hash": "c1f1b796f9b0f3b3e266e36bdfadd2ac"
+  },
+  {
+    "doc_id": "pdf_e3f2e088f2",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/aec91ea652b9416882de55a5628e56d3.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/aec91ea652b9416882de55a5628e56d3.pdf",
+    "content_hash": "e3f2e088f2b9d1fa924981485266fd2f"
+  },
+  {
+    "doc_id": "pdf_56a449dece",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2ed3eb09c0f74f9f84973c3b6a881b63.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/2ed3eb09c0f74f9f84973c3b6a881b63.pdf",
+    "content_hash": "56a449deceb890cbff1cccbcf3145f59"
+  },
+  {
+    "doc_id": "pdf_9ebe4f7f3d",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1fcfda3e068642769a5f70dcd6ad02d1.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/1fcfda3e068642769a5f70dcd6ad02d1.pdf",
+    "content_hash": "9ebe4f7f3d2660a59e0aa346141c267e"
+  },
+  {
+    "doc_id": "pdf_4ebba9f5ab",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2bcace95d32e40fdbfa356fc24b39e53.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/2bcace95d32e40fdbfa356fc24b39e53.pdf",
+    "content_hash": "4ebba9f5abe738ff6fb3f57a5604a1c7"
+  },
+  {
+    "doc_id": "pdf_f92f83810e",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6945f76d412649f0a5e50a3636ca4c2c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6945f76d412649f0a5e50a3636ca4c2c.pdf",
+    "content_hash": "f92f83810eba91141709c948828ec909"
+  },
+  {
+    "doc_id": "pdf_6950cefef5",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/20cddd2949154e9e9644cb445849b8bc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/20cddd2949154e9e9644cb445849b8bc.pdf",
+    "content_hash": "6950cefef5b02c533eda863a41aa8612"
+  },
+  {
+    "doc_id": "pdf_3887e2f735",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/05159a6be1ea41e98b3112295551bda9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/05159a6be1ea41e98b3112295551bda9.pdf",
+    "content_hash": "3887e2f7353121890f63529ba84f59cd"
+  },
+  {
+    "doc_id": "pdf_8a84b689df",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a8351d1327b844e49544f4d6d515cf9c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/a8351d1327b844e49544f4d6d515cf9c.pdf",
+    "content_hash": "8a84b689df4570486c02fc09b7da02bc"
+  },
+  {
+    "doc_id": "pdf_a01efa474f",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/eadcedde51c241a3b1136e5b4dc2005e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/eadcedde51c241a3b1136e5b4dc2005e.pdf",
+    "content_hash": "a01efa474fdfa09e4c177d03718ae4c5"
+  },
+  {
+    "doc_id": "pdf_bc6d4af5ac",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0ba32fc6424e4cc1bc00439c8762239e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/0ba32fc6424e4cc1bc00439c8762239e.pdf",
+    "content_hash": "bc6d4af5ac3804ee6d91170cde6c34d5"
+  },
+  {
+    "doc_id": "pdf_06ee432916",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/032ef083a0b34175a2edca13f9a05165.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/032ef083a0b34175a2edca13f9a05165.pdf",
+    "content_hash": "06ee4329164591f305730c1463cd337d"
+  },
+  {
+    "doc_id": "pdf_7dbdc05f38",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/28f1848a57dd40688016a72e0720ebe0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/28f1848a57dd40688016a72e0720ebe0.pdf",
+    "content_hash": "7dbdc05f3888f6ad09b4094e56e38d49"
+  },
+  {
+    "doc_id": "pdf_34354c65a4",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6b95138ca172475cbc878db6a986b09f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6b95138ca172475cbc878db6a986b09f.pdf",
+    "content_hash": "34354c65a48aefd9552fb6a7687f58e7"
+  },
+  {
+    "doc_id": "pdf_d4434c7e2e",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1f8ea135aa184d15a2a1412e23a3c6b5.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/1f8ea135aa184d15a2a1412e23a3c6b5.pdf",
+    "content_hash": "d4434c7e2ec7a7fa16b202347d9c4f04"
+  },
+  {
+    "doc_id": "pdf_6abc0738b6",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/8530fc73d9f1476c84f048443d8ab922.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/8530fc73d9f1476c84f048443d8ab922.pdf",
+    "content_hash": "6abc0738b63a2cb97434f09e4b277015"
+  },
+  {
+    "doc_id": "pdf_2ead360d47",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e293ec8d46ad48b3a0258630231e2579.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/e293ec8d46ad48b3a0258630231e2579.pdf",
+    "content_hash": "2ead360d47bebd7d559c4adc22b6b758"
+  },
+  {
+    "doc_id": "pdf_aa03d880f2",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2d4f216ec4c94105b7c1ad3b50499b9c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/2d4f216ec4c94105b7c1ad3b50499b9c.pdf",
+    "content_hash": "aa03d880f28deb0b6f7b6174723e24ab"
+  },
+  {
+    "doc_id": "pdf_0c4ab14fb1",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/000b3ef93ceb49ca917936abf645ce58.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/000b3ef93ceb49ca917936abf645ce58.pdf",
+    "content_hash": "0c4ab14fb19b797a8cfc1ac89c84af03"
+  },
+  {
+    "doc_id": "pdf_95368da25a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/3cea0dc04e0e43c5aa82d5092876110d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/3cea0dc04e0e43c5aa82d5092876110d.pdf",
+    "content_hash": "95368da25a83b14ac3870e502c0153b0"
+  },
+  {
+    "doc_id": "pdf_07627bf1a4",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f3d60b541db7491293fdb9e5eec461a0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/f3d60b541db7491293fdb9e5eec461a0.pdf",
+    "content_hash": "07627bf1a4cbbedb6a2a4041630dfebe"
+  },
+  {
+    "doc_id": "pdf_b715f9172a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bd822bd48479447fae621af434afbb23.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/bd822bd48479447fae621af434afbb23.pdf",
+    "content_hash": "b715f9172af57dc9bbf6d9a803f2977a"
+  },
+  {
+    "doc_id": "pdf_94c458e5ff",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/8e5f7fb75e504a6eab828cb395a35576.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/8e5f7fb75e504a6eab828cb395a35576.pdf",
+    "content_hash": "94c458e5ff2c710d387bd694219e99a2"
+  },
+  {
+    "doc_id": "pdf_5475f370fd",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/93a44f433fda4f74b14bdf481c6fd174.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/93a44f433fda4f74b14bdf481c6fd174.pdf",
+    "content_hash": "5475f370fdd408dd628a9b6cbd9bda0d"
+  },
+  {
+    "doc_id": "pdf_c617805282",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0611a98967d04a75a622867d1ac18b1e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/0611a98967d04a75a622867d1ac18b1e.pdf",
+    "content_hash": "c6178052821cc18c3789f59e7efed582"
+  },
+  {
+    "doc_id": "pdf_0e4e4a70e1",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d6a4350d11534cdbbcf7744e3c97a2cf.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/d6a4350d11534cdbbcf7744e3c97a2cf.pdf",
+    "content_hash": "0e4e4a70e13aa3bc04cad0336e186c6b"
+  },
+  {
+    "doc_id": "pdf_9b710f001f",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/65d5d8795928405097a57f8ac8dc9bbc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/65d5d8795928405097a57f8ac8dc9bbc.pdf",
+    "content_hash": "9b710f001f52410fa5f65d9426583643"
+  },
+  {
+    "doc_id": "pdf_296a9f7df9",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d2787473f97d4f2aae9932c7758d77ea.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/d2787473f97d4f2aae9932c7758d77ea.pdf",
+    "content_hash": "296a9f7df9c043e929ed3d8709029d63"
+  },
+  {
+    "doc_id": "pdf_0fcdf72e5d",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/17020c5374004e1da365ac67d66fa53e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/17020c5374004e1da365ac67d66fa53e.pdf",
+    "content_hash": "0fcdf72e5d9e770258f50998fb42b397"
+  },
+  {
+    "doc_id": "pdf_f3c14cc915",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/f3c9bcaed4574c6794e8c0c3fea94964.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/f3c9bcaed4574c6794e8c0c3fea94964.pdf",
+    "content_hash": "f3c14cc915d90a44f2abbc68afa65a88"
+  },
+  {
+    "doc_id": "pdf_976d093fcf",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/df21998ae8c54b5799df41316fa1eff7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/df21998ae8c54b5799df41316fa1eff7.pdf",
+    "content_hash": "976d093fcf085e659a6fa9575cb13de3"
+  },
+  {
+    "doc_id": "pdf_c4ab5c09c4",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a98770e7b2304768a5dc24dea632193f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/a98770e7b2304768a5dc24dea632193f.pdf",
+    "content_hash": "c4ab5c09c43887525bc5c84d27e3af47"
+  },
+  {
+    "doc_id": "pdf_4d53bec53a",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/23b513be17344f56a98253439c0b6de5.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/23b513be17344f56a98253439c0b6de5.pdf",
+    "content_hash": "4d53bec53a6208fe7a3a0dfb09882e4c"
+  },
+  {
+    "doc_id": "pdf_a84d375d4c",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/73df8b222882459d88b3883cc30e44b6.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/73df8b222882459d88b3883cc30e44b6.pdf",
+    "content_hash": "a84d375d4c6e38e6b7790ebb351e86bd"
+  },
+  {
+    "doc_id": "pdf_6f32d212c7",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/3594c6e0d0e043b884da358526a9d5dc.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/3594c6e0d0e043b884da358526a9d5dc.pdf",
+    "content_hash": "6f32d212c741c02b7b61e8fa4c36a4e9"
+  },
+  {
+    "doc_id": "pdf_c2b1f3eed3",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/d5062f8ba4194cd5aa3cd63deabc4bb5.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/d5062f8ba4194cd5aa3cd63deabc4bb5.pdf",
+    "content_hash": "c2b1f3eed3a1f80a6ab6def1ee6a6fa6"
+  },
+  {
+    "doc_id": "pdf_30ce589a39",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6452ede122974bbd91de171fbbf1fd23.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6452ede122974bbd91de171fbbf1fd23.pdf",
+    "content_hash": "30ce589a397eadbadc5de4693b500420"
+  },
+  {
+    "doc_id": "pdf_ac8720eb6e",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4dc12036bc534577b2ab5f34c1356f55.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/4dc12036bc534577b2ab5f34c1356f55.pdf",
+    "content_hash": "ac8720eb6e71ca2341e2cd86d32114d8"
+  },
+  {
+    "doc_id": "pdf_804fb92298",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9ceec9ea60bd4a0b8bacebec72ead133.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/9ceec9ea60bd4a0b8bacebec72ead133.pdf",
+    "content_hash": "804fb92298a6b4d69e65a4ecdf119ab5"
+  },
+  {
+    "doc_id": "pdf_edbf57f161",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/5bf226b1b82c4233860a128c5a328291.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/5bf226b1b82c4233860a128c5a328291.pdf",
+    "content_hash": "edbf57f16145c859cace9c770d14e933"
+  },
+  {
+    "doc_id": "pdf_503771d060",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c738d43acd5c49e28399873e1548db03.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/c738d43acd5c49e28399873e1548db03.pdf",
+    "content_hash": "503771d060f8dac34e2b0fd12fcbbdef"
+  },
+  {
+    "doc_id": "pdf_a1edaa9425",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/35bbad1c08354e2d984bebcb19c7a6a0.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/35bbad1c08354e2d984bebcb19c7a6a0.pdf",
+    "content_hash": "a1edaa9425fbd007be427d5da35c8171"
+  },
+  {
+    "doc_id": "pdf_fbe5d9b26b",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6f77ee64c02d493d80fff52888fe1e04.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/6f77ee64c02d493d80fff52888fe1e04.pdf",
+    "content_hash": "fbe5d9b26bb526cd71c7c67fa379c698"
+  },
+  {
+    "doc_id": "pdf_e7048b712b",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/54d24d9a9337489aa5d945628b61368f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/54d24d9a9337489aa5d945628b61368f.pdf",
+    "content_hash": "e7048b712b1a36f4d553ac5bf799f5de"
+  },
+  {
+    "doc_id": "pdf_729a12627d",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bae348b176294314a29f5327eae7a9ec.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/bae348b176294314a29f5327eae7a9ec.pdf",
+    "content_hash": "729a12627d829cff0794f1b49d784c40"
+  },
+  {
+    "doc_id": "pdf_0dab5d4d87",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/762ca2b4ea7446c0bde27105e19c4d66.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/762ca2b4ea7446c0bde27105e19c4d66.pdf",
+    "content_hash": "0dab5d4d87e738b6fec0fd4b368ebac6"
+  },
+  {
+    "doc_id": "pdf_063af40a3b",
+    "title": "Download \ud83d\udcc4",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/313c5aa07a93410f8cb34093a6f358fd.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/pdfs/Notices/313c5aa07a93410f8cb34093a6f358fd.pdf",
+    "content_hash": "063af40a3b7fc05dbbe3dfb8c567e8ff"
+  },
+  {
+    "doc_id": "docx_a77c98a5ff",
+    "title": "Networking Complaint",
+    "category": "Notices",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/docs/Notices/viewform.docx",
+    "content_hash": "a77c98a5ffabee9a501426d755f2ed68"
+  },
+  {
+    "doc_id": "html_718d31a9ae",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Notices",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/tenders",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/tenders",
+    "local_path": "data/raw/web_pages/Notices/Indian_Institute_of_Informatio_718d31.txt",
+    "content_hash": "718d31a9aedd2d1bb5448839e09c88a0"
+  },
+  {
+    "doc_id": "docx_afefbea3cf",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/iic",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "afefbea3cfda6a0e41937a9337ba0759"
+  },
+  {
+    "doc_id": "html_1d339ee93b",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/iic",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/iic",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_1d339e.txt",
+    "content_hash": "1d339ee93bd6c8044ae9715039229571"
+  },
+  {
+    "doc_id": "docx_731704d03d",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/elclub",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "731704d03dbebdb90ea804bb572a8f25"
+  },
+  {
+    "doc_id": "html_350f9bea0e",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/elclub",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/elclub",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_350f9b.txt",
+    "content_hash": "350f9bea0ee84609bf910282a8a3200d"
+  },
+  {
+    "doc_id": "pdf_164973ef38",
+    "title": "Requisition Slip to Book Guest House",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "http://iiitn.ac.in/media/55d44f7c2673415eb78ee7408d778349.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "local_path": "data/raw/pdfs/General/55d44f7c2673415eb78ee7408d778349.pdf",
+    "content_hash": "164973ef380353910737d573d9459045"
+  },
+  {
+    "doc_id": "pdf_81857dab25",
+    "title": "Rules for the Allotment of Guest House Accommodation & Room Tariff",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/0b9ce3f2708047019715da6f677afd5a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "local_path": "data/raw/pdfs/General/0b9ce3f2708047019715da6f677afd5a.pdf",
+    "content_hash": "81857dab25266edd94716c9505a9be80"
+  },
+  {
+    "doc_id": "pdf_f5da5d81fc",
+    "title": "Guest House details and nearest hotel details",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a506f5be8d874b6bbbf62e1014587f2b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "local_path": "data/raw/pdfs/General/a506f5be8d874b6bbbf62e1014587f2b.pdf",
+    "content_hash": "f5da5d81fcc3ef3cd2895a71a225cff4"
+  },
+  {
+    "doc_id": "docx_0eb734f5f0",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "0eb734f5f0af7605628f37f439213f96"
+  },
+  {
+    "doc_id": "html_a413544b10",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/guesthouse",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_a41354.txt",
+    "content_hash": "a413544b1014092da644df659df182b2"
+  },
+  {
+    "doc_id": "pdf_4a7e1fedb9",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1ba7243672ec400aa6a1ffbc648cadf1.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/1ba7243672ec400aa6a1ffbc648cadf1.pdf",
+    "content_hash": "4a7e1fedb9527f138e8a0b5e05334a02"
+  },
+  {
+    "doc_id": "pdf_0579924fed",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/da37fe651192494197ac9ddf79c12029.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/da37fe651192494197ac9ddf79c12029.pdf",
+    "content_hash": "0579924fed772f92cc32bf33c49b1a33"
+  },
+  {
+    "doc_id": "pdf_8d3e6fb6bb",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4408aa0356994798827a56612b398256.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/4408aa0356994798827a56612b398256.pdf",
+    "content_hash": "8d3e6fb6bb6de17e0aa995d9e48007e9"
+  },
+  {
+    "doc_id": "pdf_c2367bad8b",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/926d9b4a7f264cefab3a2621d837c854.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/926d9b4a7f264cefab3a2621d837c854.pdf",
+    "content_hash": "c2367bad8b2e50ab23e7f9780a9df955"
+  },
+  {
+    "doc_id": "pdf_d3e9b98f1f",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/59c83d9de43a4925bcafe5b82b4e4357.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/59c83d9de43a4925bcafe5b82b4e4357.pdf",
+    "content_hash": "d3e9b98f1f3994e5f8f767351b05cd48"
+  },
+  {
+    "doc_id": "pdf_31303d18b1",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/606716ab1dd24a52b8e3338e6380502d.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/pdfs/General/606716ab1dd24a52b8e3338e6380502d.pdf",
+    "content_hash": "31303d18b18877d2b237770fabc9607c"
+  },
+  {
+    "doc_id": "docx_38e3492d1c",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "38e3492d1c56ddcb92a289d5bbeb050f"
+  },
+  {
+    "doc_id": "html_5dc56a9351",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/pressrelease",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_5dc56a.txt",
+    "content_hash": "5dc56a9351e033417b0916515df4e4fb"
+  },
+  {
+    "doc_id": "pdf_e75b4ab04a",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/08761ef3debe4c01bc139614a857578a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/08761ef3debe4c01bc139614a857578a.pdf",
+    "content_hash": "e75b4ab04a8af10fe699e62c5cb4b42b"
+  },
+  {
+    "doc_id": "pdf_879de57ef2",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/240c05123b5c4243a38c2e430dfc5497.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/240c05123b5c4243a38c2e430dfc5497.pdf",
+    "content_hash": "879de57ef2f6f52e427b42f916adb702"
+  },
+  {
+    "doc_id": "pdf_02870e8034",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a4ea4d4796e54e088ec14acc3e1bb60a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/a4ea4d4796e54e088ec14acc3e1bb60a.pdf",
+    "content_hash": "02870e8034f98da25d46ccefb829affd"
+  },
+  {
+    "doc_id": "pdf_afded25d9e",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cebc233d8908431a89e4dbe961029053.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/cebc233d8908431a89e4dbe961029053.pdf",
+    "content_hash": "afded25d9e0666e6d51cecde53e8fc4f"
+  },
+  {
+    "doc_id": "pdf_045de01cf7",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a7f413f9ff924adf957fc63b95d28c4e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/a7f413f9ff924adf957fc63b95d28c4e.pdf",
+    "content_hash": "045de01cf7d24e10ea616aae4089d45b"
+  },
+  {
+    "doc_id": "pdf_854a6edaf9",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/2be6e0d88eb748d2bcb1eccb034c13d9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/2be6e0d88eb748d2bcb1eccb034c13d9.pdf",
+    "content_hash": "854a6edaf94433250cc12a16fdac2449"
+  },
+  {
+    "doc_id": "pdf_25fe2aecca",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9f8ffca1ef6047a2ace86c26fe30a379.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/9f8ffca1ef6047a2ace86c26fe30a379.pdf",
+    "content_hash": "25fe2aeccad0230dacd1df8dd38b1bde"
+  },
+  {
+    "doc_id": "pdf_47a124df99",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ac1a2ec6d90a43e6998c59be1c9d0b9b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/ac1a2ec6d90a43e6998c59be1c9d0b9b.pdf",
+    "content_hash": "47a124df997fc2d286425fa86e829bb8"
+  },
+  {
+    "doc_id": "pdf_d3960828cd",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c32f0b95f4e448d88928a0520577cf9e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/c32f0b95f4e448d88928a0520577cf9e.pdf",
+    "content_hash": "d3960828cdf53629c331f7926a871d71"
+  },
+  {
+    "doc_id": "pdf_bd4d3b70a4",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/47ca80deb0e24e5ab06d8dd511e424ce.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/47ca80deb0e24e5ab06d8dd511e424ce.pdf",
+    "content_hash": "bd4d3b70a473c5f59be27577109222c7"
+  },
+  {
+    "doc_id": "pdf_55cb0e0be7",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/a4b16e71d5a340eca91c8344cb064727.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/a4b16e71d5a340eca91c8344cb064727.pdf",
+    "content_hash": "55cb0e0be7029c4fe580501b84c30d2f"
+  },
+  {
+    "doc_id": "pdf_ba60edcb12",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/ac52d7a25ed94edbb1cd3c8d5e196f19.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/ac52d7a25ed94edbb1cd3c8d5e196f19.pdf",
+    "content_hash": "ba60edcb1207d11bb06ff3cce2be4cfb"
+  },
+  {
+    "doc_id": "pdf_ce1305584e",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/49c252a3def14062bc44ea9ce1367e14.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/49c252a3def14062bc44ea9ce1367e14.pdf",
+    "content_hash": "ce1305584e4dc10207b28f7bbe0b7689"
+  },
+  {
+    "doc_id": "pdf_9f99eda5d4",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e4f401b55dfc481b8e979c99e081226c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/e4f401b55dfc481b8e979c99e081226c.pdf",
+    "content_hash": "9f99eda5d4cd794c037452f9611141b6"
+  },
+  {
+    "doc_id": "pdf_4f603813d3",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/45250190e97743b0b89d04ecebb0ccce.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/45250190e97743b0b89d04ecebb0ccce.pdf",
+    "content_hash": "4f603813d31612b5ab2bf7148db253b4"
+  },
+  {
+    "doc_id": "pdf_7e02651bd1",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9a3c7128b9d041efa279d775eca98881.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/9a3c7128b9d041efa279d775eca98881.pdf",
+    "content_hash": "7e02651bd17f96fa9eac83f0ea53dccd"
+  },
+  {
+    "doc_id": "pdf_e7e2470591",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e49dbeafe20c4c8aacd56a30616a14ce.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/e49dbeafe20c4c8aacd56a30616a14ce.pdf",
+    "content_hash": "e7e2470591cae1e3d23990abddde7c96"
+  },
+  {
+    "doc_id": "pdf_3d99bd2f1b",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cecbb36e010d4f0db55fb0efcff7ebdb.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/cecbb36e010d4f0db55fb0efcff7ebdb.pdf",
+    "content_hash": "3d99bd2f1bf517c999d655e2b6862b01"
+  },
+  {
+    "doc_id": "pdf_b283aef2f4",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/985eef6919944512b7484e68a0a9462a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/985eef6919944512b7484e68a0a9462a.pdf",
+    "content_hash": "b283aef2f4bf09130019d287abad22ff"
+  },
+  {
+    "doc_id": "pdf_bac259f125",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4b7a743e4329476582fbd502d09abc83.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/4b7a743e4329476582fbd502d09abc83.pdf",
+    "content_hash": "bac259f12536cd4b89832aa692af76ab"
+  },
+  {
+    "doc_id": "pdf_f0313a1957",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/316e24757f404404a14e0939b7e24276.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/316e24757f404404a14e0939b7e24276.pdf",
+    "content_hash": "f0313a19574aeafec647923bd9869f5c"
+  },
+  {
+    "doc_id": "pdf_a22b7240de",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/c02ad6073f644dfd8119c6340d635cb9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/c02ad6073f644dfd8119c6340d635cb9.pdf",
+    "content_hash": "a22b7240de9f4656258bcf49ba569a55"
+  },
+  {
+    "doc_id": "pdf_c53c148153",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9e341d535ae4416f922f8c8486ce8f2f.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/9e341d535ae4416f922f8c8486ce8f2f.pdf",
+    "content_hash": "c53c148153d0d1bc25fcbc7eb3b7eb7f"
+  },
+  {
+    "doc_id": "pdf_d91b08da8a",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/4a7500f6f8a541dea267c0c48efffed7.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/4a7500f6f8a541dea267c0c48efffed7.pdf",
+    "content_hash": "d91b08da8a20fbcb6f8b961aecbc24c8"
+  },
+  {
+    "doc_id": "pdf_596d2e4b85",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/bb92ecdd21a047acaf6aec6a62c66b24.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/bb92ecdd21a047acaf6aec6a62c66b24.pdf",
+    "content_hash": "596d2e4b8596274d49457310848cc45f"
+  },
+  {
+    "doc_id": "pdf_2c4e4297e8",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/e65b946b5eee463abf4112ed491340b9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/e65b946b5eee463abf4112ed491340b9.pdf",
+    "content_hash": "2c4e4297e8a37b677f32c64111a41d7e"
+  },
+  {
+    "doc_id": "pdf_ed084bcb2f",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/6bd92b73ef7b4023b977bf0d09c8653a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/6bd92b73ef7b4023b977bf0d09c8653a.pdf",
+    "content_hash": "ed084bcb2f5c4648981825068581d066"
+  },
+  {
+    "doc_id": "pdf_b3713af889",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/60c75fb7b79e4f8882deb85df0415091.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/60c75fb7b79e4f8882deb85df0415091.pdf",
+    "content_hash": "b3713af889dcd42d5cad8028091e0348"
+  },
+  {
+    "doc_id": "pdf_e9ec0ed2ec",
+    "title": "View PDF \u2192",
+    "category": "Notices",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/9e56e417c30a4199bb220178415a988a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/pdfs/Notices/9e56e417c30a4199bb220178415a988a.pdf",
+    "content_hash": "e9ec0ed2ecca734ade66fd649a59b1f4"
+  },
+  {
+    "doc_id": "docx_0a4c6f9bc3",
+    "title": "Networking Complaint",
+    "category": "Notices",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/docs/Notices/viewform.docx",
+    "content_hash": "0a4c6f9bc332b8a735ee78282635d373"
+  },
+  {
+    "doc_id": "html_4f3a53518a",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Notices",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/officialdocuments",
+    "local_path": "data/raw/web_pages/Notices/Indian_Institute_of_Informatio_4f3a53.txt",
+    "content_hash": "4f3a53518a8beca0b17e60e47d619a8d"
+  },
+  {
+    "doc_id": "pdf_1e83f83d88",
+    "title": "Download PDF",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/21621d3d39fb4e5aa5c06eca9db5db42.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/calendar",
+    "local_path": "data/raw/pdfs/Academics/21621d3d39fb4e5aa5c06eca9db5db42.pdf",
+    "content_hash": "1e83f83d886813f84617b51cc2038dc3"
+  },
+  {
+    "doc_id": "pdf_498bfc1870",
+    "title": "Download PDF",
+    "category": "Academics",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/1e63dc82843d48179968d6aca74fee6e.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/calendar",
+    "local_path": "data/raw/pdfs/Academics/1e63dc82843d48179968d6aca74fee6e.pdf",
+    "content_hash": "498bfc18701e4024682f3b97e4faa7a0"
+  },
+  {
+    "doc_id": "docx_654194fbf2",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/calendar",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "654194fbf25f0bc63d47e755b821a829"
+  },
+  {
+    "doc_id": "html_65490f8e76",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/academics/calendar",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/calendar",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_65490f.txt",
+    "content_hash": "65490f8e761a6f5e15809325bee1a031"
+  },
+  {
+    "doc_id": "docx_0652df913b",
+    "title": "Networking Complaint",
+    "category": "Academics",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/library",
+    "local_path": "data/raw/docs/Academics/viewform.docx",
+    "content_hash": "0652df913b65004c40caf10b2e567ca6"
+  },
+  {
+    "doc_id": "html_17fc502516",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "Academics",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/academics/library",
+    "parent_page_url": "https://www.iiitn.ac.in/academics/library",
+    "local_path": "data/raw/web_pages/Academics/Indian_Institute_of_Informatio_17fc50.txt",
+    "content_hash": "17fc502516f848e94080797f3d703840"
+  },
+  {
+    "doc_id": "html_675c96b596",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/founders",
+    "parent_page_url": "https://www.iiitn.ac.in/founders",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_675c96.txt",
+    "content_hash": "675c96b596aae009a54f73f94c49e7c3"
+  },
+  {
+    "doc_id": "table_f4f6284cee",
+    "title": "TimetableImportant Dates and Deadlines",
+    "category": "StudentAffairs",
+    "file_type": "table",
+    "source_url": "https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vSp2JfZZCxiV3e3n3uKekiLFOeh2XQzDov_YDAU4QLRIGD5H6HCoWmQKORMAd8chLib0p-I0749s1Uj/pubhtml?gid=371376379&single=true&urp=gmail_link",
+    "parent_page_url": "https://www.iiitn.ac.in/students",
+    "local_path": "data/raw/tables/StudentAffairs/pubhtml.csv",
+    "content_hash": "f4f6284cee766579e8c866c8d1194560"
+  },
+  {
+    "doc_id": "docx_ec4af1a411",
+    "title": "Networking Complaint",
+    "category": "StudentAffairs",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/students",
+    "local_path": "data/raw/docs/StudentAffairs/viewform.docx",
+    "content_hash": "ec4af1a411bb6674285627f1dbd3c8b7"
+  },
+  {
+    "doc_id": "html_b4fd2d96d7",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "StudentAffairs",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/students",
+    "parent_page_url": "https://www.iiitn.ac.in/students",
+    "local_path": "data/raw/web_pages/StudentAffairs/Indian_Institute_of_Informatio_b4fd2d.txt",
+    "content_hash": "b4fd2d96d719acb3a57dd59e60b69cac"
+  },
+  {
+    "doc_id": "docx_ae930faee8",
+    "title": "Networking Complaint",
+    "category": "StudentAffairs",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/students/hostellife",
+    "local_path": "data/raw/docs/StudentAffairs/viewform.docx",
+    "content_hash": "ae930faee805eab16670bf4cc71fb3a0"
+  },
+  {
+    "doc_id": "html_182aceab58",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "StudentAffairs",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/students/hostellife",
+    "parent_page_url": "https://www.iiitn.ac.in/students/hostellife",
+    "local_path": "data/raw/web_pages/StudentAffairs/Indian_Institute_of_Informatio_182ace.txt",
+    "content_hash": "182aceab588fa0bd7d17d2ca544e5a4a"
+  },
+  {
+    "doc_id": "docx_e3eb105870",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/studentclubs",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "e3eb1058707d282f199b8a6b17c2e068"
+  },
+  {
+    "doc_id": "html_2f66e95991",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/studentclubs",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/studentclubs",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_2f66e9.txt",
+    "content_hash": "2f66e95991ef5b791da71c824d69962d"
+  },
+  {
+    "doc_id": "docx_1ed0c88ce2",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/events",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "1ed0c88ce2838aec348e26c9420fb9f1"
+  },
+  {
+    "doc_id": "html_90705d53f4",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/events",
+    "parent_page_url": "https://www.iiitn.ac.in/events",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_90705d.txt",
+    "content_hash": "90705d53f461d2a03ce350c47c3ed907"
+  },
+  {
+    "doc_id": "pdf_0759a45390",
+    "title": "Read More \u2192",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/b01088bbd4c74946a7410c240bce208c.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/studentachievements",
+    "local_path": "data/raw/pdfs/General/b01088bbd4c74946a7410c240bce208c.pdf",
+    "content_hash": "0759a45390c30d2a4c26af21ba9f7ad0"
+  },
+  {
+    "doc_id": "docx_0feb894d2f",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/studentachievements",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "0feb894d2f316aac49a5f71171bdd75d"
+  },
+  {
+    "doc_id": "html_61bba9d836",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/studentachievements",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/studentachievements",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_61bba9.txt",
+    "content_hash": "61bba9d8361b33ad2bfa286c1f86d7f2"
+  },
+  {
+    "doc_id": "docx_f388e0a7b8",
+    "title": "Networking Complaint",
+    "category": "StudentAffairs",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/mess",
+    "local_path": "data/raw/docs/StudentAffairs/viewform.docx",
+    "content_hash": "f388e0a7b896c10036ca7b0efe0abcf8"
+  },
+  {
+    "doc_id": "html_872f814162",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "StudentAffairs",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/mess",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/mess",
+    "local_path": "data/raw/web_pages/StudentAffairs/Indian_Institute_of_Informatio_872f81.txt",
+    "content_hash": "872f814162e6042a3ca31143300b2312"
+  },
+  {
+    "doc_id": "docx_077dc2eb4a",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/clinicalcounselling",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "077dc2eb4a1cff10d740fc66670efb0e"
+  },
+  {
+    "doc_id": "html_d1ac9542c8",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/clinicalcounselling",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/clinicalcounselling",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_d1ac95.txt",
+    "content_hash": "d1ac9542c80a89edcb5aef35edaeb720"
+  },
+  {
+    "doc_id": "docx_ac9f8188a8",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/facultyandstaff",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "ac9f8188a86becee074782d0636592c2"
+  },
+  {
+    "doc_id": "html_87e2061e55",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/facultyandstaff",
+    "parent_page_url": "https://www.iiitn.ac.in/facultyandstaff",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_87e206.txt",
+    "content_hash": "87e2061e555dea68b92a86389dc784cd"
+  },
+  {
+    "doc_id": "docx_79fb9bb3bc",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/facultyachievements",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "79fb9bb3bc6ac5a186987c6eb67e6301"
+  },
+  {
+    "doc_id": "html_912d625133",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/facultyachievements",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/facultyachievements",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_912d62.txt",
+    "content_hash": "912d625133b525315d7e082312d7f082"
+  },
+  {
+    "doc_id": "pdf_a3e4492e1f",
+    "title": "Download Notification",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/56577461c6c84c0794a9d0ad5fb6e3d9.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/recruitments",
+    "local_path": "data/raw/pdfs/General/56577461c6c84c0794a9d0ad5fb6e3d9.pdf",
+    "content_hash": "a3e4492e1f127a3c04c6cf521d0d410e"
+  },
+  {
+    "doc_id": "pdf_645d2cd37c",
+    "title": "Download Application Form",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/58e80a430f864496bc900355cf78f13b.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/recruitments",
+    "local_path": "data/raw/pdfs/General/58e80a430f864496bc900355cf78f13b.pdf",
+    "content_hash": "645d2cd37c4f91643b0658e825ba3b42"
+  },
+  {
+    "doc_id": "docx_95cf560a08",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/recruitments",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "95cf560a0814cd9d65aa15dc7577a21b"
+  },
+  {
+    "doc_id": "html_5a90583e0c",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/recruitments",
+    "parent_page_url": "https://www.iiitn.ac.in/recruitments",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_5a9058.txt",
+    "content_hash": "5a90583e0cc9e60ec94d61ca1202ed96"
+  },
+  {
+    "doc_id": "docx_ff16ec0739",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/visitors",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "ff16ec0739b0328c771248d1eae85bfe"
+  },
+  {
+    "doc_id": "html_1cf9bb35cf",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/visitors",
+    "parent_page_url": "https://www.iiitn.ac.in/visitors",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_1cf9bb.txt",
+    "content_hash": "1cf9bb35cf82d2d14f07347d2275bac7"
+  },
+  {
+    "doc_id": "docx_7b7fb6327c",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/eoc",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "7b7fb6327c3c367cf84e662e939c033f"
+  },
+  {
+    "doc_id": "html_9e81ae0450",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/eoc",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/eoc",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_9e81ae.txt",
+    "content_hash": "9e81ae045011aaeb86f36c8b220e6285"
+  },
+  {
+    "doc_id": "pdf_e928f6d5e8",
+    "title": "View Anti-Ragging Committee Details (PDF)",
+    "category": "General",
+    "file_type": "pdf",
+    "source_url": "https://iiitn.ac.in/media/cc20f2bd8ea140f3a3aebe36ea104a3a.pdf",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/antiragging",
+    "local_path": "data/raw/pdfs/General/cc20f2bd8ea140f3a3aebe36ea104a3a.pdf",
+    "content_hash": "e928f6d5e8ad92592a1238cb5ad612dd"
+  },
+  {
+    "doc_id": "docx_7269edf0d5",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/antiragging",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "7269edf0d5f21b1be4c430946f687cc2"
+  },
+  {
+    "doc_id": "html_6e2dfa0e38",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/antiragging",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/antiragging",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_6e2dfa.txt",
+    "content_hash": "6e2dfa0e381153f0f3f9c5c59169f930"
+  },
+  {
+    "doc_id": "docx_92b6f418c0",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance_committee_sc_st",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "92b6f418c02c1c5cac24f2c9c4646d92"
+  },
+  {
+    "doc_id": "html_102267a986",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/grievance_committee_sc_st",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance_committee_sc_st",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_102267.txt",
+    "content_hash": "102267a986698db01ffdb8246ad00cd5"
+  },
+  {
+    "doc_id": "docx_47bef9655a",
+    "title": "\ud83c\udf93 Student Grievance Portal",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSeDbHn_1Vx02byAGDoJGQa86wRGn20Fz5ATVwoymGeuQs_pMw/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "47bef9655ad5d9acd1784900cd7176bc"
+  },
+  {
+    "doc_id": "docx_c1fba97923",
+    "title": "\ud83d\udc68\u200d\ud83c\udfeb Faculty / Staff Grievance Portal",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScV9NsIvstad29rZVh6jZPJ2w9fLE9R9qf6lFTGLhCmd3UvAQ/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "c1fba979236405b48cfbe5b5f02f4d47"
+  },
+  {
+    "doc_id": "docx_3ea9a017d1",
+    "title": "\ud83d\udccb General Grievance Portal",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSdDjHAhSymeY7IBLpu5GhSByzZZ9YhlM6mkm79YNqifMBpUBg/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "3ea9a017d14eccb33097d4d25486671d"
+  },
+  {
+    "doc_id": "docx_e20f3cb660",
+    "title": "Networking Complaint",
+    "category": "General",
+    "file_type": "docx",
+    "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSco29-RxP8WzKQkS_E5SkuHMZGaKnHxvvYj-HHWhscQ6t3G6Q/viewform",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance",
+    "local_path": "data/raw/docs/General/viewform.docx",
+    "content_hash": "e20f3cb660baeab1b4e53860e16338da"
+  },
+  {
+    "doc_id": "html_ae1ebb3018",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "category": "General",
+    "file_type": "html",
+    "source_url": "https://www.iiitn.ac.in/pages/grievance",
+    "parent_page_url": "https://www.iiitn.ac.in/pages/grievance",
+    "local_path": "data/raw/web_pages/General/Indian_Institute_of_Informatio_ae1ebb.txt",
+    "content_hash": "ae1ebb30181db3f98e50405a3100a032"
+  }
+]

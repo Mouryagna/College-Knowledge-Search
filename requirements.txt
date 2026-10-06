@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+urllib3
+pytesseract
+pillow
+pdfplumber
+pandas
+python-docx
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
